@@ -2,7 +2,7 @@
   "id": "564fc158-61c3-4eca-b68f-76eabc1cd8be",
   "name": "Security Management",
   "publisher": "Fich & Kretzmann ApS",
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -13,7 +13,7 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "25.0.0.0",
   "idRanges": [
     {
       "from": 79900,
@@ -21,11 +21,13 @@
     }
   ],
   "features": [
-    "NoImplicitWith"
+    "NoImplicitWith","TranslationFile"
   ],
   "resourceExposurePolicy": {
     "allowDebugging": true,
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
-  }
+  },
+  "resourceFolders": [".resources"],
+  "runtime": "15.0"
 }

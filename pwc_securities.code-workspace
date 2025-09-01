@@ -1,10 +1,10 @@
 {
   "folders": [
     {
-      "path": "Security Management"
-    },
-    {
       "path": ".AL-Go"
+    },
+	{
+      "path": "Security Management"
     }
   ],
   "settings": {}
