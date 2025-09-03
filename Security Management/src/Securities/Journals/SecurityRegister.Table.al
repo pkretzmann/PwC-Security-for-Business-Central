@@ -1,7 +1,9 @@
 /// <summary>
 /// Table for security register entries
 /// </summary>
-namespace PwC.Securities.Ledgers;
+namespace PwC.Securities.Journals;
+
+using PwC.Securities.Ledgers;
 
 table 79909 "Security Register"
 {

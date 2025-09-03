@@ -1,7 +1,9 @@
 /// <summary>
 /// List page for Security Register entries
 /// </summary>
-namespace PwC.Securities.Ledgers;
+namespace PwC.Securities.Journals;
+
+using PwC.Securities.Ledgers;
 
 page 79909 "Security Register"
 {
@@ -53,7 +55,7 @@ page 79909 "Security Register"
                         SecurityLedgerEntry: Record "Security Ledger Entry";
                     begin
                         SecurityLedgerEntry.SetRange("Entry No.", Rec."From Entry No.", Rec."To Entry No.");
-                        //Page.Run(Page::"Security Ledger Entries", SecurityLedgerEntry);
+                        Page.Run(Page::"Security Ledger Entries", SecurityLedgerEntry);
                     end;
                 }
                 action("Security Account Ledger Entries")
@@ -64,9 +66,11 @@ page 79909 "Security Register"
                     ToolTip = 'View the security account ledger entries for this register.';
 
                     trigger OnAction()
+                    var
+                        SecurityAccountLedgerEntry: Record "Security Account Ledger Entry";
                     begin
-                        // Navigate to Security Account Ledger Entries filtered by entry number range
-                        // Implementation would require the Security Account Ledger Entries page to exist
+                        SecurityAccountLedgerEntry.SetRange("Entry No.", Rec."From Security Acc. Entry No.", Rec."To Security Acc. Entry No.");
+                        Page.Run(Page::"Security Acc. Ledger Entries", SecurityAccountLedgerEntry);
                     end;
                 }
             }

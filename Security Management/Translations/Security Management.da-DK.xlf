@@ -979,6 +979,690 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page ISINs - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3858673673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Detailed Profit Ledger Entry</source>
+          <target>Detaljeret gevinstpost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount.</source>
+          <target>Angiver beløbet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Beløb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 382783465 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount before interest.</source>
+          <target>Angiver beløbet før renter.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Amount B.I. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 382783465 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount B.I.</source>
+          <target>Beløb før renter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Amount B.I. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 688027766 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount in local currency.</source>
+          <target>Angiver beløbet i lokal valuta.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Amount LCY - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 688027766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount LCY</source>
+          <target>Beløb (RV)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Amount LCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 4198939294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the currency code.</source>
+          <target>Angiver valutakoden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target>Valutakode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document number.</source>
+          <target>Angiver bilagsnummeret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Bilagsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document type.</source>
+          <target>Angiver bilagstype.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Document Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Bilagstype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the detailed profit ledger entry.</source>
+          <target>Angiver nummeret for den detaljerede gevinstpost.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Løbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2840225090 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the journal name used for the entry.</source>
+          <target>Angiver kladdenavnet, hvor posten blev bogført fra.</target>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Journal Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2840225090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Name</source>
+          <target>Kladdenavn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Journal Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2700116880 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the market-value principle is applied.</source>
+          <target>Angiver om markedsværdiprincippet anvendes.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Market-Value Principle - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2700116880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Market-Value Principle</source>
+          <target>Markedsværdiprincip</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Market-Value Principle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the posting date of the entry.</source>
+          <target>Angiver bogføringsdatoen for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Posting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Bogføringsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 4087486043 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the profit method.</source>
+          <target>Angiver gevinstmetoden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Profit Method - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 4087486043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profit Method</source>
+          <target>Gevinstmetode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Profit Method - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2572112562 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the profit type.</source>
+          <target>Angiver gevinsttypen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Profit Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2572112562 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profit Type</source>
+          <target>Gevinsttype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Profit Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity of securities.</source>
+          <target>Angiver antallet af værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Antal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 1415927496 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the realization type.</source>
+          <target>Angiver realiseringstypen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Realization Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 1415927496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Realization Type</source>
+          <target>Realiseringstype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Realization Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 1908046867 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the reason code for the entry.</source>
+          <target>Angiver årsagskoden for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Reason Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 1908046867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason Code</source>
+          <target>Årsagskode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Reason Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2190767219 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if this is a reclassification entry.</source>
+          <target>Angiver at det er en omposteringspost.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Reclassification - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2190767219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reclassification</source>
+          <target>Ompostering</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Reclassification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2135070884 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether this is a reversal entry.</source>
+          <target>Angiver om dette er en tilbageførselspost.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Reversal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2135070884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reversal</source>
+          <target>Tilbageførsel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Reversal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2942502047 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if this entry represents a rounding difference.</source>
+          <target>Angiver om denne post repræsenterer en afrundingsdifference.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Rounding Difference - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2942502047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rounding Difference</source>
+          <target>Afrundingsdifference</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Rounding Difference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 4001359392 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether this is a sales amount entry.</source>
+          <target>Angiver om dette er en salgsbeløbspost.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Sales Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 4001359392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Amount</source>
+          <target>Salgsbeløb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Sales Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 281984684 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the security ledger entry number.</source>
+          <target>Angiver løbenummeret for værdipapirposten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Security Ledger Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 281984684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Ledger Entry No.</source>
+          <target>Værdipapirpostløbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Security Ledger Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 1603483707 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the security number.</source>
+          <target>Angiver nummeret for værdipapiret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Security No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 1603483707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security No.</source>
+          <target>Værdipapirnummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Security No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2720485332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the source code for the entry.</source>
+          <target>Angiver kildekoden for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Source Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <target>Kildekode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 46082055 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the tax type.</source>
+          <target>Angiver skattetypen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Tax Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 46082055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Type</source>
+          <target>Skattetype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Tax Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 548745649 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the trading date of the entry.</source>
+          <target>Angiver handelsdatoen for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Trading Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 548745649 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trading Date</source>
+          <target>Handelsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field Trading Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user ID who created the entry.</source>
+          <target>Angiver bruger-id'et for den bruger, der oprettede posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3858673673 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>Bruger-id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Profit Ledger Entry - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Detailed Value Ledger Entry</source>
+          <target>Detaljeret værdipapirpost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount.</source>
+          <target>Angiver beløbet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Beløb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 592951229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount in local currency.</source>
+          <target>Angiver beløbet i lokal valuta.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Amount (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 592951229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount (LCY)</source>
+          <target>Beløb (RV)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Amount (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 382783465 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount before interest.</source>
+          <target>Angiver beløbet før renter.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Amount B.I. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 382783465 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount B.I.</source>
+          <target>Beløb før renter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Amount B.I. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 4198939294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the currency code.</source>
+          <target>Angiver valutakoden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target>Valutakode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document number.</source>
+          <target>Angiver bilagsnummeret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Bilagsnr.</target>
+          <target>Dokumentnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document type.</source>
+          <target>Angiver bilagstype.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Document Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Bilagstype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the detailed value ledger entry.</source>
+          <target>Angiver nummeret for den detaljerede værdipapirpost.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Løbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 167098141 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entry number filter.</source>
+          <target>Angiver løbenummerfilter.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Entry No. Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 167098141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No. Filter</source>
+          <target>Løbenummerfilter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Entry No. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 1944631943 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the formatted entry number.</source>
+          <target>Angiver det formaterede løbenummer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Entry No. Formatted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 1944631943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No. Formatted</source>
+          <target>Formateret løbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Entry No. Formatted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 896738187 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if this entry is included in purchase value.</source>
+          <target>Angiver om denne post er inkluderet i købsværdien.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Incl. In Purchase Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 896738187 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incl. In Purchase Value</source>
+          <target>Inkluderet i købsværdi</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Incl. In Purchase Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2840225090 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the journal name used for the entry.</source>
+          <target>Angiver kladdenavnet, hvor posten blev bogført fra.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Journal Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2840225090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Name</source>
+          <target>Kladdenavn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Journal Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2700116880 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the market-value principle is applied.</source>
+          <target>Angiver om markedsværdiprincippet anvendes.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Market-Value Principle - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2700116880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Market-Value Principle</source>
+          <target>Markedsværdiprincip</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Market-Value Principle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 629037869 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if this is a positive entry.</source>
+          <target>Angiver om denne post er en positiv post.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Positive - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 629037869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Positive</source>
+          <target>Positiv</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Positive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the posting date of the entry.</source>
+          <target>Angiver bogføringsdatoen for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Posting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Bogføringsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 4087486043 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the profit method.</source>
+          <target>Angiver gevinstmetoden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Profit Method - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 4087486043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profit Method</source>
+          <target>Gevinstmetode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Profit Method - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 3268574454 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the profit type currency exchange rate.</source>
+          <target>Angiver valutakursen for gevinsttypen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Profit Type C. E. Rate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 3268574454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profit Type C. E. Rate</source>
+          <target>Gevinsttypen valutakurs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Profit Type C. E. Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 4115386573 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the profit type price.</source>
+          <target>Angiver prisen for gevinsttypen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Profit Type Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 4115386573 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profit Type Price</source>
+          <target>Gevinsttypen pris</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Profit Type Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 3920280169 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the purchase date.</source>
+          <target>Angiver købsdatoen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Purchase Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 3920280169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Date</source>
+          <target>Købsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Purchase Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2174535735 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the purchase ledger entry number.</source>
+          <target>Angiver købsløbenummeret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Purchase Ledger Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2174535735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Ledger Entry No.</source>
+          <target>Købsløbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Purchase Ledger Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity of securities.</source>
+          <target>Angiver antallet af værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Antal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 1415927496 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the realization type.</source>
+          <target>Angiver realiseringstypen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Realization Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 1415927496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Realization Type</source>
+          <target>Realiseringstype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Realization Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 1908046867 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the reason code for the entry.</source>
+          <target>Angiver årsagskoden for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Reason Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 1908046867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason Code</source>
+          <target>Årsagskode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Reason Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2190767219 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if this is a reclassification entry.</source>
+          <target>Angiver at det er en omposteringspost.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Reclassification - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2190767219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reclassification</source>
+          <target>Ompostering</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Reclassification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2135070884 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether this is a reversal entry.</source>
+          <target>Angiver om dette er en tilbageførselspost.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Reversal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2135070884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reversal</source>
+          <target>Tilbageførsel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Reversal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2942502047 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if this entry represents a rounding difference.</source>
+          <target>Angiver om denne post repræsenterer en afrundingsdifference.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Rounding Difference - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2942502047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rounding Difference</source>
+          <target>Afrundingsdifference</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Rounding Difference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 281984684 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the security ledger entry number.</source>
+          <target>Angiver løbenummeret for værdipapirposten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Security Ledger Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 281984684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Ledger Entry No.</source>
+          <target>Værdipapirpostløbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Security Ledger Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 1603483707 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the security number.</source>
+          <target>Angiver nummeret for værdipapiret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Security No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 1603483707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security No.</source>
+          <target>Værdipapirnummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Security No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2720485332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the source code for the entry.</source>
+          <target>Angiver kildekoden for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Source Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <target>Kildekode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 46082055 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the tax type.</source>
+          <target>Angiver skattetypen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Tax Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 46082055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Type</source>
+          <target>Skattetype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Tax Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 548745649 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the trading date of the entry.</source>
+          <target>Angiver handelsdatoen for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Trading Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 548745649 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trading Date</source>
+          <target>Handelsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field Trading Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user ID who created the entry.</source>
+          <target>Angiver bruger-id'et for den bruger, der oprettede posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 754736366 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>Bruger-id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Detailed Value Ledger Entry - Field User ID - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 874318466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Security Account Ledger Entry</source>
           <target>Depotbeholdsningspost</target>
@@ -1240,7 +1924,6 @@
         <trans-unit id="Table 1067929953 - Field 592951229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Amount (LCY)</source>
           <target>Beløb (RV)</target>
-          <target>Beløb (LV)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Amount (LCY) - Property Caption</note>
         </trans-unit>
@@ -1360,7 +2043,7 @@
         </trans-unit>
         <trans-unit id="Table 1067929953 - Field 2993219597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Dividend Tax (LCY)</source>
-          <target>Udbytteskat (LV)</target>
+          <target>Udbytteskat (RV)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Dividend Tax (LCY) - Property Caption</note>
         </trans-unit>
@@ -1409,8 +2092,6 @@
         </trans-unit>
         <trans-unit id="Table 1067929953 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Entry No.</source>
-          <target>Løbenr.</target>
-          <target>Løbenummer</target>
           <target>Postnr.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Entry No. - Property Caption</note>
@@ -1477,7 +2158,7 @@
         </trans-unit>
         <trans-unit id="Table 1067929953 - Field 2840225090 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the journal name used for the entry.</source>
-          <target>Angiver kladdenavnet, der bruges til posten.</target>
+          <target>Angiver kladdenavnet, hvor posten blev bogført fra.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Journal Name - Property ToolTip</note>
         </trans-unit>
@@ -1501,7 +2182,7 @@
         </trans-unit>
         <trans-unit id="Table 1067929953 - Field 3771739932 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the number series used for the entry.</source>
-          <target>Angiver nummerserien, der bruges til posten.</target>
+          <target>Angiver nummerserien, hvor posten blev bogført fra.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Number Series - Property ToolTip</note>
         </trans-unit>
@@ -1675,7 +2356,7 @@
         </trans-unit>
         <trans-unit id="Table 1067929953 - Field 989907366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Trading Interest (LCY)</source>
-          <target>Handelsrenter (LV)</target>
+          <target>Handelsrenter (RV)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Trading Interest (LCY) - Property Caption</note>
         </trans-unit>
@@ -1735,7 +2416,7 @@
         </trans-unit>
         <trans-unit id="Table 1067929953 - Field 2176632122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Yield Before Tax (LCY)</source>
-          <target>Afkast før skat (LV)</target>
+          <target>Afkast før skat (RV)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Yield Before Tax (LCY) - Property Caption</note>
         </trans-unit>
@@ -1852,6 +2533,18 @@
           <target>Bruger-id</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4261049187 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Detailed Profit Ledger Entries</source>
+          <target>Detaljerede profitposter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Detailed Profit Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3737534176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Detailed Value Ledger Entries</source>
+          <target>Detaljerede værdipapirposter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Detailed Value Ledger Entries - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2103883034 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Security Account Ledger Entries</source>

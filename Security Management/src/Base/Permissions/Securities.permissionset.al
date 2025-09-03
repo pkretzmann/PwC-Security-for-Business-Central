@@ -12,7 +12,8 @@ using PwC.Securities.Security;
 using PwC.Securities.SecurityAccounts;
 using PwC.Securities.ISIN;
 using PwC.PostingSetup;
-using PwC.Securities;
+using PwC.Securities.Journals;
+using PwC.Securities.Journals.JournalTemplate;
 
 permissionset 79900 Securities
 {
@@ -53,5 +54,26 @@ permissionset 79900 Securities
         page "Security Profit Posting Groups" = X,
         tabledata "Security Comment Line" = RIMD,
         table "Security Comment Line" = X,
-        page "Security Comment List" = X;
+        page "Security Comment List" = X,
+        tabledata "Detailed Value Ledger Entry" = RIMD,
+        table "Detailed Value Ledger Entry" = X,
+        page "Detailed Value Ledger Entries" = X,
+        tabledata "Detailed Profit Ledger Entry" = RIMD,
+        table "Detailed Profit Ledger Entry" = X,
+        page "Detailed Profit Ledger Entries" = X,
+        tabledata "Security Journal Line" = RIMD,
+        table "Security Journal Line" = X,
+        tabledata "Security Journal Batch" = RIMD,
+        tabledata "Security Journal Template" = RIMD,
+        table "Security Journal Batch" = X,
+        table "Security Journal Template" = X,
+        codeunit "Security Journal Management" = X,
+        page "Security Acc. Ledger Entries" = X,
+        page "Security Comment Sheet" = X,
+        page "Security Journal" = X,
+        page "Security Journal Batches" = X,
+        page "Security Journal Template List" = X,
+        page "Security Journal Templates" = X,
+        page "Security Ledger Entries" = X,
+        page "Security Register" = X;
 }
