@@ -8,6 +8,7 @@ using Microsoft.Manufacturing.RoleCenters;
 using PwC.Securities.Security;
 using PwC.Securities.ISIN;
 using PwC.Securities.SecurityAccounts;
+using PwC.Securities.Journals;
 
 pageextension 79901 "Treasury Prod. Planner RC" extends "Production Planner Role Center"
 {
@@ -27,44 +28,58 @@ pageextension 79901 "Treasury Prod. Planner RC" extends "Production Planner Role
                 Caption = 'Treasury', Locked = true;
                 ToolTip = 'Manage securities from Treasury.';
 
-                action(SecurityAccounts)
+                group("Security Management")
                 {
-                    ApplicationArea = All;
-                    Caption = 'Security Accounts';
-                    Image = Inventory;
-                    RunObject = page "Security Accounts";
-                    ToolTip = 'Manage the security accounts.';
+                    Caption = 'Security Management', Locked = true;
+                    ToolTip = 'Manage securities from Treasury.';
+
+                    action(SecurityAccounts)
+                    {
+                        ApplicationArea = All;
+                        Caption = 'Security Accounts';
+                        Image = Inventory;
+                        RunObject = page "Security Accounts";
+                        ToolTip = 'Manage the security accounts.';
+                    }
+                    action(Securities)
+                    {
+                        ApplicationArea = All;
+                        Caption = 'Securities';
+                        Image = GeneralLedger;
+                        RunObject = page "Securities";
+                        ToolTip = 'Manage the securities.';
+                    }
+                    action(ISINs)
+                    {
+                        ApplicationArea = All;
+                        Caption = 'ISINs';
+                        Image = Bin;
+                        RunObject = page ISINs;
+                        ToolTip = 'Manage the ISINs.';
+                    }
+                    action(SecurityJournals)
+                    {
+                        ApplicationArea = All;
+                        Caption = 'Security Journals';
+                        Image = Journal;
+                        RunObject = page "Security Journal";
+                        ToolTip = 'Manage the journals.';
+                    }
                 }
 
-                action(Securities)
+                group(TreasurySetup)
                 {
-                    ApplicationArea = All;
-                    Caption = 'Securities';
-                    Image = GeneralLedger;
-                    RunObject = page "Securities";
-                    ToolTip = 'Manage the securities.';
-                }
-                action(ISINs)
-                {
-                    ApplicationArea = All;
-                    Caption = 'ISINs';
-                    Image = Bin;
-                    RunObject = page ISINs;
-                    ToolTip = 'Manage the ISINs.';
-                }
-            }
-            group(TreasurySetup)
-            {
-                Caption = 'Treasury Setup', Locked = true;
-                ToolTip = 'Manage setup of Treasury.';
+                    Caption = 'Treasury Setup', Locked = true;
+                    ToolTip = 'Manage setup of Treasury.';
 
-                action(Setup)
-                {
-                    ApplicationArea = All;
-                    Caption = 'Setup';
-                    Image = Setup;
-                    RunObject = page "Securities Setup";
-                    ToolTip = 'Manage setup of Securities.';
+                    action(Setup)
+                    {
+                        ApplicationArea = All;
+                        Caption = 'Setup';
+                        Image = Setup;
+                        RunObject = page "Securities Setup";
+                        ToolTip = 'Manage setup of Securities.';
+                    }
                 }
             }
         }

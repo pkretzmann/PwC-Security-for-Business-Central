@@ -51,6 +51,12 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action Treasury - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 1888406615 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>Manage securities from Treasury.</source>
+          <target>Administrer værdipapirer fra Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action Security Management - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="PageExtension 4285155704 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
           <source>Manage the ISINs.</source>
           <target>Administrer ISIN'er.</target>
@@ -87,6 +93,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action SecurityAccounts - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 2763664856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>Manage the journals.</source>
+          <target>Administrer kladderne.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action SecurityJournals - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 2763664856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>Security Journals</source>
+          <target>Værdipapirkladder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action SecurityJournals - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 4285155704 - Action 1455520556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
           <source>Manage setup of Treasury.</source>
           <target>Administrer opsætning af Treasury.</target>
@@ -110,6 +128,12 @@
           <target>Administrer værdipapirer fra Treasury.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action Treasury - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 1888406615 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Manage securities from Treasury.</source>
+          <target>Administrer værdipapirer fra Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action Security Management - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4165747125 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
           <source>Manage the ISINs.</source>
@@ -147,6 +171,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action SecurityAccounts - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 2763664856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Manage the journals.</source>
+          <target>Administrer kladderne.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action SecurityJournals - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 2763664856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Security Journals</source>
+          <target>Værdipapirkladder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action SecurityJournals - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 4165747125 - Action 1455520556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
           <source>Manage setup of Treasury.</source>
           <target>Administrer opsætning af Treasury.</target>
@@ -170,6 +206,12 @@
           <target>Administrer værdipapirer fra Treasury.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action Treasury - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 1888406615 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>Manage securities from Treasury.</source>
+          <target>Administrer værdipapirer fra Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action Security Management - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 4238293773 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
           <source>Manage the ISINs.</source>
@@ -207,6 +249,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action SecurityAccounts - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 2763664856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>Manage the journals.</source>
+          <target>Administrer kladderne.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action SecurityJournals - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 2763664856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>Security Journals</source>
+          <target>Værdipapirkladder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action SecurityJournals - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 4238293773 - Action 1455520556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
           <source>Manage setup of Treasury.</source>
           <target>Administrer opsætning af Treasury.</target>
@@ -230,6 +284,12 @@
           <target>Administrer værdipapirer fra Treasury.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action Treasury - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 1888406615 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>Manage securities from Treasury.</source>
+          <target>Administrer værdipapirer fra Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action Security Management - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3166619292 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
           <source>Manage the ISINs.</source>
@@ -267,6 +327,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action SecurityAccounts - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 2763664856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>Manage the journals.</source>
+          <target>Administrer kladderne.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action SecurityJournals - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 2763664856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>Security Journals</source>
+          <target>Værdipapirkladder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action SecurityJournals - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 3166619292 - Action 1455520556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
           <source>Manage setup of Treasury.</source>
           <target>Administrer opsætning af Treasury.</target>
@@ -290,6 +362,12 @@
           <target>Administrer værdipapirer fra Treasury.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action Treasury - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 1888406615 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>Manage securities from Treasury.</source>
+          <target>Administrer værdipapirer fra Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action Security Management - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 736017079 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
           <source>Manage the ISINs.</source>
@@ -327,6 +405,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action SecurityAccounts - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 2763664856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>Manage the journals.</source>
+          <target>Administrer kladderne.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action SecurityJournals - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 2763664856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>Security Journals</source>
+          <target>Værdipapirkladder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action SecurityJournals - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 736017079 - Action 1455520556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
           <source>Manage setup of Treasury.</source>
           <target>Administrer opsætning af Treasury.</target>
@@ -350,6 +440,12 @@
           <target>Administrer værdipapirer fra Treasury.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action Treasury - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 1888406615 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>Manage securities from Treasury.</source>
+          <target>Administrer værdipapirer fra Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action Security Management - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2572556509 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
           <source>Manage the ISINs.</source>
@@ -387,6 +483,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action SecurityAccounts - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 2763664856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>Manage the journals.</source>
+          <target>Administrer kladderne.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action SecurityJournals - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 2763664856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>Security Journals</source>
+          <target>Værdipapirkladder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action SecurityJournals - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2572556509 - Action 1455520556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
           <source>Manage setup of Treasury.</source>
           <target>Administrer opsætning af Treasury.</target>
@@ -410,6 +518,12 @@
           <target>Administrer værdipapirer fra Treasury.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action Treasury - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 1888406615 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>Manage securities from Treasury.</source>
+          <target>Administrer værdipapirer fra Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action Security Management - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 2304404 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
           <source>Manage the ISINs.</source>
@@ -446,6 +560,18 @@
           <target>Depotbeholdninger</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action SecurityAccounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 2763664856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>Manage the journals.</source>
+          <target>Administrer kladderne.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action SecurityJournals - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 2763664856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>Security Journals</source>
+          <target>Værdipapirkladder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action SecurityJournals - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 2304404 - Action 1455520556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
           <source>Manage setup of Treasury.</source>
@@ -978,6 +1104,1110 @@
           <target>ISIN'er</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page ISINs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 916124581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Journal Batch</source>
+          <target>Værdipapirkladdenavn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Batch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 916124581 - Field 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of this journal.</source>
+          <target>Angiver en beskrivelse af kladden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Batch - Field Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 916124581 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beskrivelse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Batch - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 916124581 - Field 3684440170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template Name</source>
+          <target>Kladdetypenavn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Batch - Field Journal Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 916124581 - Field 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of this project journal. You can enter a maximum of 10 characters, both numbers and letters.</source>
+          <target>Angiver navnet på denne værdipapirkladde. Du kan indsætte op til 10 tegn, både tal og bogstaver.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Batch - Field Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 916124581 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Navn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Batch - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 916124581 - Field 1351594800 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number series that is used for the journal.</source>
+          <target>Angiver nummerserien, der bruges til kladden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Batch - Field No. Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 916124581 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>Nummerserie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Batch - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 916124581 - Field 103924864 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number series that is used for the journal.</source>
+          <target>Angiver nummerserien, der bruges til kladden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Batch - Field Posting No. Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 916124581 - Field 103924864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting No. Series</source>
+          <target>Bogføringsnummerserie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Batch - Field Posting No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 916124581 - Field 103924864 - Method 2126772001 - NamedType 3354029665" size-unit="char" translate="yes" xml:space="preserve">
+          <source>must not be %1</source>
+          <target>må ikke være %1</target>
+          <note from="Developer" annotates="general" priority="2">%1: Posting No. Series FieldCaption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Batch - Field Posting No. Series - Method OnValidate - NamedType PostingNoSeriesErr</note>
+        </trans-unit>
+        <trans-unit id="Table 916124581 - Field 1908046867 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the reason code for this journal.</source>
+          <target>Angiver årsagskoden for denne kladde.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Batch - Field Reason Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 916124581 - Field 1908046867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason Code</source>
+          <target>Årsagskode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Batch - Field Reason Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092914801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Journal Template</source>
+          <target>Værdipapirkladdetype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Template - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092914801 - Field 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the project journal template for easy identification.</source>
+          <target>Angiver en beskrivelse af værdipapirkladdeskabelonen, så du nemt kan finde den.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Template - Field Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3092914801 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beskrivelse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Template - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092914801 - Field 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of this journal template. You can enter a maximum of 10 characters, both numbers and letters.</source>
+          <target>Angiver navnet på denne kladdetype. Du kan angive op til 10 tegn, både tal og bogstaver.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Template - Field Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3092914801 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Navn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Template - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092914801 - Field 894914730 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the page that is used to show the journal or worksheet that uses the template.</source>
+          <target>Angiver nummeret på den side, der bruges til at vise den kladde eller det regneark, der bruger skabelonen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Template - Field Page ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3092914801 - Field 894914730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page ID</source>
+          <target>Side-id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Template - Field Page ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3092914801 - Field 2720485332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the source code for the journal template. The source code is used to identify the journal template in the system.</source>
+          <target>Angiver kildekoden for kladdeskabelonen. Kildekoden bruges til at identificere kladdeskabelonen i systemet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Template - Field Source Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3092914801 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <target>Kildekode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Template - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 373628264 - NamedType 2603134309" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Journal</source>
+          <target>Standardkladde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Security Journal Management - NamedType SecurityBatchDescrLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 373628264 - NamedType 2354581132" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DEFAULT</source>
+          <target>STANDARD</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Security Journal Management - NamedType SecurityBatchLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 373628264 - NamedType 4116252169" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Time Journal</source>
+          <target>Værdipapir tidskladde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Security Journal Management - NamedType SecurityTemplateDescrLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2226008007 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Journal Batches</source>
+          <target>Værdipapirkladdenavne</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal Batches - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2226008007 - Action 2525623599 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open a journal based on the journal batch.</source>
+          <target>Åbn en kladde baseret på kladdenavnet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal Batches - Action Edit Journal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2226008007 - Action 2525623599 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Journal</source>
+          <target>Rediger kladde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal Batches - Action Edit Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2670876199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Journal Template List</source>
+          <target>Værdipapirkladdetypeliste</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal Template List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4214123624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Journal Templates</source>
+          <target>Værdipapirkladdetyper</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal Templates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4214123624 - Action 45445610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Te&amp;mplate</source>
+          <target>&amp;Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal Templates - Action Te&amp;mplate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4214123624 - Action 2243748878 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit multiple journals for a specific template. You can use batches when you need multiple journals of a certain type.</source>
+          <target>Vis eller rediger flere værdipapirkladder for en bestemt type. Du kan bruge kørsler, hvis du har brug for flere kladder af en bestemt type.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal Templates - Action Batches - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4214123624 - Action 2243748878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batches</source>
+          <target>Navne</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal Templates - Action Batches - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Journal Line</source>
+          <target>Værdipapirkladdelinje</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Method 516858799 - NamedType 3351274" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The %1 %2 is not valid.</source>
+          <target>%1 %2 er ikke gyldig.</target>
+          <note from="Developer" annotates="general" priority="2">%1: TableCaption for Toggl Journal Batch. %2: Name of the batch.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Method IsOpenedFromBatch - NamedType NotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 968122008 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the reciprocal of the account currency factor.</source>
+          <target>Angiver den reciprokke værdi af kontovalutafaktoren.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Acc. Curr. Factor Reciprocal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 968122008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acc. Curr. Factor Reciprocal</source>
+          <target>Kontovalutafaktor reciprok</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Acc. Curr. Factor Reciprocal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3736602439 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the account amount.</source>
+          <target>Angiver kontobeløbet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Account Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3736602439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Amount</source>
+          <target>Kontobeløb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Account Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3511821205 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the account currency code.</source>
+          <target>Angiver kontovalutakoden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Account Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3511821205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Currency Code</source>
+          <target>Kontovalutakode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Account Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1558875629 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the account currency factor.</source>
+          <target>Angiver kontovalutafaktoren.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Account Currency Factor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1558875629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Currency Factor</source>
+          <target>Kontovalutafaktor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Account Currency Factor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount.</source>
+          <target>Angiver beløbet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Beløb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 592951229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount in local currency.</source>
+          <target>Angiver beløbet i lokal valuta.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Amount (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 592951229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount (LCY)</source>
+          <target>Beløb (RV)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Amount (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 382783465 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount before interest.</source>
+          <target>Angiver beløbet før renter.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Amount B.I. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 382783465 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount B.I.</source>
+          <target>Beløb før renter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Amount B.I. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1491510321 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entry number to apply.</source>
+          <target>Angiver løbenummeret, der skal udlignes.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Apply Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1491510321 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply Entry No.</source>
+          <target>Udlign løbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Apply Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2877895369 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the balance account.</source>
+          <target>Angiver modkontoen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Balance Account - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2877895369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance Account</source>
+          <target>Statuskonto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Balance Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3911366801 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the balance account type.</source>
+          <target>Angiver saldo kontotypen.</target>
+          <target>Angiver modkontotype.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Balance Account Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3911366801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance Account Type</source>
+          <target>Modkontotype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Balance Account Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1206490820 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if this is a bonus share entry.</source>
+          <target>Angiver om dette er en bonusaktie-post.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Bonus Share - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1206490820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonus Share</source>
+          <target>Bonusaktie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Bonus Share - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2394849948 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the costs associated with the transaction.</source>
+          <target>Angiver omkostningerne forbundet med transaktionen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Costs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2394849948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Costs</source>
+          <target>Omkostninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Costs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 4198939294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the currency code.</source>
+          <target>Angiver valutakoden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target>Valutakode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2324056710 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the currency factor.</source>
+          <target>Angiver valutafaktoren.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Currency Factor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2324056710 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Factor</source>
+          <target>Valutafaktor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Currency Factor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1092945320 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the reciprocal of the currency factor.</source>
+          <target>Angiver den reciprokke værdi af valutafaktoren.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Currency Factor Reciprocal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1092945320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Factor Reciprocal</source>
+          <target>Valutafaktor reciprok</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Currency Factor Reciprocal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2556933954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the current market value.</source>
+          <target>Angiver den aktuelle markedsværdi.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Current Market Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2556933954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current Market Value</source>
+          <target>Aktuel markedsværdi</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Current Market Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 619001091 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the current market value in local currency.</source>
+          <target>Angiver den aktuelle markedsværdi i lokal valuta.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Current Market Value (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 619001091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current Market Value (LCY)</source>
+          <target>Aktuel markedsværdi (LV)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Current Market Value (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2374839567 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the current market value before interest.</source>
+          <target>Angiver den aktuelle markedsværdi før renter.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Current Market Value B.I. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2374839567 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current Market Value B.I.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Current Market Value B.I. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3138001638 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the current quantity.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Current Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3138001638 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current Quantity</source>
+          <target>Aktuelt antal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Current Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3171002267 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the current share size.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Current Share Size - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3171002267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current Share Size</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Current Share Size - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of the journal line.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beskrivelse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3322554545 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the dimension set ID for the journal line.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Dimension Set ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3322554545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Set ID</source>
+          <target>Dimensionsgruppe-id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Dimension Set ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1043598248 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the dividend tax amount.</source>
+          <target>Angiver udbytteskatbeløbet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Dividend Tax - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1043598248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dividend Tax</source>
+          <target>Udbytteskat</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Dividend Tax - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2993219597 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the dividend tax amount in local currency.</source>
+          <target>Angiver udbytteskatbeløbet i lokal valuta.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Dividend Tax (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2993219597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dividend Tax (LCY)</source>
+          <target>Udbytteskat (RV)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Dividend Tax (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2055509967 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the dividend tax percentage.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Dividend Tax Pct. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2055509967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dividend Tax Pct.</source>
+          <target>Udbytteskat %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Dividend Tax Pct. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document number.</source>
+          <target>Angiver bilagsnummeret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Bilagsnr.</target>
+          <target>Dokumentnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document type.</source>
+          <target>Angiver bilagstype.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Document Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Bilagstype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2360952980 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if this is a drawing entry.</source>
+          <target>Angiver om dette er en trækningspost.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Drawing - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2360952980 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Drawing</source>
+          <target>Trækning</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Drawing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1527563463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the external document number.</source>
+          <target>Angiver det eksterne bilagsnummer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field External Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <target>Eksternt bilagsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 61828920 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if this is a free entry.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Free - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 61828920 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Free</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Free - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3586651397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the index price.</source>
+          <target>Angiver indekskursen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Index Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3586651397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Index Price</source>
+          <target>Indekskurs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Index Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2704330142 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the journal batch name.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Journal Batch Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <target>Kladdenavn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3684440170 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the journal template name.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Journal Template Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3684440170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template Name</source>
+          <target>Kladdetypenavn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Journal Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the line number of the journal line.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Linjenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2700116880 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the market-value principle is applied.</source>
+          <target>Angiver om markedsværdiprincippet anvendes.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Market-Value Principle - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2700116880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Market-Value Principle</source>
+          <target>Markedsværdiprincip</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Market-Value Principle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 462705074 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the new security account code.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field New Security Account Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 462705074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Security Account Code</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field New Security Account Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 778983432 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the new share size.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field New Share Size - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 778983432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Share Size</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field New Share Size - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the posting date of the journal line.</source>
+          <target>Angiver bogføringsdatoen for kladdelinjen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Posting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Bogføringsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 103924864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting No. Series</source>
+          <target>Bogføringsnummerserie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Posting No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1957825068 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the posting number series.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Posting Number Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1957825068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Number Series</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Posting Number Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3635338911 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the price of the security.</source>
+          <target>Angiver kursen på værdipapiret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target>Kurs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity of securities.</source>
+          <target>Angiver antallet af værdipapirer.</target>
+          <target>Angiver beholdningen af værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Antal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1415927496 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the realization type.</source>
+          <target>Angiver realiseringstypen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Realization Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1415927496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Realization Type</source>
+          <target>Realiseringstype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Realization Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1908046867 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the reason code for the journal line.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Reason Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1908046867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason Code</source>
+          <target>Årsagskode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Reason Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 955140262 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the security account code.</source>
+          <target>Angiver koden for depotbeholdningen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Security Account Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 955140262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Account Code</source>
+          <target>Depotbeholdningskode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Security Account Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1603483707 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the security number.</source>
+          <target>Angiver nummeret for værdipapiret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Security No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1603483707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security No.</source>
+          <target>Værdipapirnummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Security No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1577567912 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the shortcut dimension 1 code.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Shortcut Dimension 1 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1577567912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 1 Code</source>
+          <target>Genvejsdimension 1-kode</target>
+          <target>Kode for genvejsdimension 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Shortcut Dimension 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1003760969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the shortcut dimension 2 code.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Shortcut Dimension 2 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1003760969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 2 Code</source>
+          <target>Genvejsdimension 2-kode</target>
+          <target>Kode for genvejsdimension 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Shortcut Dimension 2 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2720485332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the source code for the journal line.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Source Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <target>Kildekode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 548745649 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the trading date of the journal line.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Trading Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 548745649 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trading Date</source>
+          <target>Handelsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Trading Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 94875311 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the trading interest.</source>
+          <target>Angiver handelsrenter.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Trading Interest - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 94875311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trading Interest</source>
+          <target>Handelsrenter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Trading Interest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 989907366 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the trading interest in local currency.</source>
+          <target>Angiver handelsrenter i lokal valuta.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Trading Interest (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 989907366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trading Interest (LCY)</source>
+          <target>Handelsrenter (RV)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Trading Interest (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2734347289 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the security number this line was transferred from.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Transferred from Security No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2734347289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transferred from Security No.</source>
+          <target>Overført fra værdipapirnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Transferred from Security No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1430393035 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the yield before tax.</source>
+          <target>Angiver afkastet før skat.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Yield Before Tax - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 1430393035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Yield Before Tax</source>
+          <target>Afkast før skat</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Yield Before Tax - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2176632122 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the yield before tax in local currency.</source>
+          <target>Angiver afkastet før skat i lokal valuta.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Yield Before Tax (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 907978851 - Field 2176632122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Yield Before Tax (LCY)</source>
+          <target>Afkast før skat (RV)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Yield Before Tax (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Register</source>
+          <target>Værdipapirjournal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2398184335 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the from entry number of the security register.</source>
+          <target>Angiver fra-løbenummeret for værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field From Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2398184335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Entry No.</source>
+          <target>Fra løbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field From Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 3779759824 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the from security account entry number of the security register.</source>
+          <target>Angiver fra-løbenummeret for depotbeholdningsposten i værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field From Security Acc. Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 3779759824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Security Acc. Entry No.</source>
+          <target>Fra depotbeh. løbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field From Security Acc. Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 1292368092 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the issuing date of the security register.</source>
+          <target>Angiver udstedelsesdatoen for værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Issuing Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 1292368092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issuing Date</source>
+          <target>Udstedelsesdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Issuing Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2704330142 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the journal batch name of the security register.</source>
+          <target>Angiver kladdenavnet for værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Journal Batch Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <target>Kladdenavn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the security register.</source>
+          <target>Angiver nummeret for værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2720485332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the source code of the security register.</source>
+          <target>Angiver kildekoden for værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Source Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <target>Kildekode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 656469164 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the to entry number of the security register.</source>
+          <target>Angiver til-løbenummeret for værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field To Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 656469164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Entry No.</source>
+          <target>Til løbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field To Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2914421611 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the to security account entry number of the security register.</source>
+          <target>Angiver til-løbenummeret for depotbeholdningsposten i værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field To Security Acc. Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2914421611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Security Acc. Entry No.</source>
+          <target>Til depotbeh. løbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field To Security Acc. Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user ID of the security register.</source>
+          <target>Angiver bruger-id'et for værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>Bruger-id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2166342521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Journals</source>
+          <target>Værdipapirkladder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2166342521 - Control 4021774582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Amount</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Control Security Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2166342521 - Control 2025933454 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the security in the current journal batch.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Control SecurityAmount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2166342521 - Control 4137142692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Description</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Control Security Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2166342521 - Control 2847811148 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the security.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Control SecurityDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2166342521 - Control 874212758 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the journal batch, a personalized journal layout, that the journal is based on.</source>
+          <target>Angiver navnet på den kladdekørsel, et personligt kladdelayout, som kladden er baseret på.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Control CurrentJnlBatchName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2166342521 - Control 874212758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <target>Kladdenavn</target>
+          <target>Kladdekørsel</target>
+          <target>Batchnavn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Control CurrentJnlBatchName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2166342521 - Action 1414360946 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the detailed information about the Security.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Action Security - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2166342521 - Action 1414360946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security</source>
+          <target>Værdipapir</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Action Security - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3600136817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Register</source>
+          <target>Værdipapirs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3600136817 - Action 3672253057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Register</source>
+          <target>&amp;Journal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action &amp;Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3600136817 - Action 431691676 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the security account ledger entries for this register.</source>
+          <target>Vis værdipapirsbeholdningsposter for denne journalpost.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action Security Account Ledger Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3600136817 - Action 431691676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Account Ledger Entries</source>
+          <target>Værdipapirsbeholdningsposter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action Security Account Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3600136817 - Action 4177493467 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the security ledger entries for this register.</source>
+          <target>Vis værdipapirsposter for denne journalpost.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action Security Ledger Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3600136817 - Action 4177493467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Ledger Entries</source>
+          <target>Værdipapirsposter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action Security Ledger Entries - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3858673673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Detailed Profit Ledger Entry</source>
@@ -2420,120 +3650,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Yield Before Tax (LCY) - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 3600136817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Security Register</source>
-          <target>Værdipapirjournal</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 2398184335 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the from entry number of the security register.</source>
-          <target>Angiver fra-løbenummeret for værdipapirjournalen.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field From Entry No. - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 2398184335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>From Entry No.</source>
-          <target>Fra løbenr.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field From Entry No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 3779759824 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the from security account entry number of the security register.</source>
-          <target>Angiver fra-løbenummeret for depotbeholdningsposten i værdipapirjournalen.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field From Security Acc. Entry No. - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 3779759824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>From Security Acc. Entry No.</source>
-          <target>Fra depotbeh. løbenr.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field From Security Acc. Entry No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 1292368092 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the issuing date of the security register.</source>
-          <target>Angiver udstedelsesdatoen for værdipapirjournalen.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Issuing Date - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 1292368092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Issuing Date</source>
-          <target>Udstedelsesdato</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Issuing Date - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 2704330142 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the journal batch name of the security register.</source>
-          <target>Angiver kladdenavnet for værdipapirjournalen.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Journal Batch Name - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Journal Batch Name</source>
-          <target>Kladdenavn</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Journal Batch Name - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the number of the security register.</source>
-          <target>Angiver nummeret for værdipapirjournalen.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field No. - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>No.</source>
-          <target>Nummer</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 2720485332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the source code of the security register.</source>
-          <target>Angiver kildekoden for værdipapirjournalen.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Source Code - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Source Code</source>
-          <target>Kildekode</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Source Code - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 656469164 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the to entry number of the security register.</source>
-          <target>Angiver til-løbenummeret for værdipapirjournalen.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field To Entry No. - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 656469164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>To Entry No.</source>
-          <target>Til løbenr.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field To Entry No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 2914421611 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the to security account entry number of the security register.</source>
-          <target>Angiver til-løbenummeret for depotbeholdningsposten i værdipapirjournalen.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field To Security Acc. Entry No. - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 2914421611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>To Security Acc. Entry No.</source>
-          <target>Til depotbeh. løbenr.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field To Security Acc. Entry No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the user ID of the security register.</source>
-          <target>Angiver bruger-id'et for værdipapirjournalen.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field User ID - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 3600136817 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>User ID</source>
-          <target>Bruger-id</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field User ID - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Page 4261049187 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Detailed Profit Ledger Entries</source>
           <target>Detaljerede profitposter</target>
@@ -2557,42 +3673,6 @@
           <target>Værdipapirsposter</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Security Ledger Entries - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3600136817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Security Register</source>
-          <target>Værdipapirs</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3600136817 - Action 3672253057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>&amp;Register</source>
-          <target>&amp;Journal</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action &amp;Register - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3600136817 - Action 431691676 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>View the security account ledger entries for this register.</source>
-          <target>Vis værdipapirsbeholdningsposter for denne journalpost.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action Security Account Ledger Entries - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3600136817 - Action 431691676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Security Account Ledger Entries</source>
-          <target>Værdipapirsbeholdningsposter</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action Security Account Ledger Entries - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3600136817 - Action 4177493467 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>View the security ledger entries for this register.</source>
-          <target>Vis værdipapirsposter for denne journalpost.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action Security Ledger Entries - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3600136817 - Action 4177493467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Security Ledger Entries</source>
-          <target>Værdipapirsposter</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action Security Ledger Entries - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1959702151 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Investment Fund Price</source>
@@ -3116,7 +4196,7 @@
         </trans-unit>
         <trans-unit id="Page 918540822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Security Card</source>
-          <target>Deportkort</target>
+          <target>Værdipapirkort</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Security Card - Property Caption</note>
         </trans-unit>
