@@ -1,14 +1,14 @@
 /// <summary>
 /// Table Security Account Assignment (ID 79906).
 /// </summary>
-namespace PwC.Securities;
+namespace PwC.Securities.SecurityAccounts;
 
-using PwC.Securities;
 using PwC.Securities.Accounts;
+using PwC.Securities.Security;
 
 table 79906 "Security Account"
 {
-    Caption = 'Security Account Assignment';
+    Caption = 'Security Account';
     DataClassification = CustomerContent;
     DrillDownPageId = "Security Accounts";
     LookupPageId = "Security Accounts";

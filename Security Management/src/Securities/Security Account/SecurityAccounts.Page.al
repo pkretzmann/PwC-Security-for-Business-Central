@@ -1,14 +1,14 @@
 /// <summary>
 /// Page Security Accounts (ID 79906).
 /// </summary>
-namespace PwC.Securities;
+namespace PwC.Securities.SecurityAccounts;
 
 page 79906 "Security Accounts"
 {
     Caption = 'Security Accounts';
     PageType = List;
     SourceTable = "Security Account";
-    UsageCategory = None;
+    UsageCategory = Lists;
     ApplicationArea = All;
 
     layout

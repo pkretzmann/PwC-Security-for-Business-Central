@@ -3,6 +3,468 @@
   <file datatype="xml" source-language="en-US" target-language="da-DK" original="Security Management.g.xlf">
     <body>
       <group id="body">
+        <trans-unit id="Table 281799712 - Field 3659404472 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of accounts.</source>
+          <target>Specificerer antallet af depoter.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Treasury Cue - Field No. of Accounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 281799712 - Field 3659404472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Accounts</source>
+          <target>Antal depoter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Treasury Cue - Field No. of Accounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281799712 - Field 1980324426 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of securities.</source>
+          <target>Specificerer antallet af værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Treasury Cue - Field No. of Securities - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 281799712 - Field 1980324426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Securities</source>
+          <target>Antal værdipapirer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Treasury Cue - Field No. of Securities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281799712 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primærnøgle</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Treasury Cue - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1630649344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Treasury Activities</source>
+          <target>Treasury aktiviteter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Treasury Activities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1630649344 - Control 4210297201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Treasury</source>
+          <target>Treasury</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Treasury Activities - Control Treasury - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 4210297201 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>Manage securities from Treasury.</source>
+          <target>Administrer værdipapirer fra Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action Treasury - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>Manage the ISINs.</source>
+          <target>Administrer ISIN'er.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action ISINs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 376573610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>ISINs</source>
+          <target>ISIN'er</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action ISINs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 315310732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>Manage the securities.</source>
+          <target>Administrer værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action Securities - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 315310732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>Securities</source>
+          <target>Værdipapirer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action Securities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 3949882504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>Manage the security accounts.</source>
+          <target>Administrer depotbeholdninger.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action SecurityAccounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 3949882504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>Security Accounts</source>
+          <target>Depotbeholdninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action SecurityAccounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 1455520556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>Manage setup of Treasury.</source>
+          <target>Administrer opsætning af Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action TreasurySetup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 1514883969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>Manage setup of Securities.</source>
+          <target>Administrer opsætning af værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>Setup</source>
+          <target>Opsætning</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 4210297201 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Manage securities from Treasury.</source>
+          <target>Administrer værdipapirer fra Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action Treasury - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Manage the ISINs.</source>
+          <target>Administrer ISIN'er.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action ISINs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 376573610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>ISINs</source>
+          <target>ISIN'er</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action ISINs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 315310732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Manage the securities.</source>
+          <target>Administrer værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action Securities - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 315310732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Securities</source>
+          <target>Værdipapirer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action Securities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 3949882504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Manage the security accounts.</source>
+          <target>Administrer depotbeholdninger.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action SecurityAccounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 3949882504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Security Accounts</source>
+          <target>Depotbeholdninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action SecurityAccounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 1455520556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Manage setup of Treasury.</source>
+          <target>Administrer opsætning af Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action TreasurySetup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 1514883969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Manage setup of Securities.</source>
+          <target>Administrer opsætning af værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Setup</source>
+          <target>Opsætning</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 4210297201 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>Manage securities from Treasury.</source>
+          <target>Administrer værdipapirer fra Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action Treasury - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>Manage the ISINs.</source>
+          <target>Administrer ISIN'er.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action ISINs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 376573610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>ISINs</source>
+          <target>ISIN'er</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action ISINs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 315310732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>Manage the securities.</source>
+          <target>Administrer værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action Securities - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 315310732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>Securities</source>
+          <target>Værdipapirer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action Securities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 3949882504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>Manage the security accounts.</source>
+          <target>Administrer depotbeholdninger.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action SecurityAccounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 3949882504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>Security Accounts</source>
+          <target>Depotbeholdninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action SecurityAccounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 1455520556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>Manage setup of Treasury.</source>
+          <target>Administrer opsætning af Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action TreasurySetup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 1514883969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>Manage setup of Securities.</source>
+          <target>Administrer opsætning af værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>Setup</source>
+          <target>Opsætning</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 4210297201 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>Manage securities from Treasury.</source>
+          <target>Administrer værdipapirer fra Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action Treasury - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>Manage the ISINs.</source>
+          <target>Administrer ISIN'er.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action ISINs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 376573610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>ISINs</source>
+          <target>ISIN'er</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action ISINs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 315310732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>Manage the securities.</source>
+          <target>Administrer værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action Securities - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 315310732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>Securities</source>
+          <target>Værdipapirer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action Securities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 3949882504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>Manage the security accounts.</source>
+          <target>Administrer depotbeholdninger.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action SecurityAccounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 3949882504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>Security Accounts</source>
+          <target>Depoterbeholdninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action SecurityAccounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 1455520556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>Manage setup of Treasury.</source>
+          <target>Administrer opsætning af Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action TreasurySetup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 1514883969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>Manage setup of Securities.</source>
+          <target>Administrer opsætning af værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>Setup</source>
+          <target>Opsætning</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 4210297201 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>Manage securities from Treasury.</source>
+          <target>Administrer værdipapirer fra Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action Treasury - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>Manage the ISINs.</source>
+          <target>Administrer ISIN'er.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action ISINs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 376573610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>ISINs</source>
+          <target>ISIN'er</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action ISINs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 315310732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>Manage the securities.</source>
+          <target>Administrer værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action Securities - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 315310732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>Securities</source>
+          <target>Værdipapirer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action Securities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 3949882504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>Manage the security accounts.</source>
+          <target>Administrer depotbeholdninger.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action SecurityAccounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 3949882504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>Security Accounts</source>
+          <target>Depotbeholdninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action SecurityAccounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 1455520556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>Manage setup of Treasury.</source>
+          <target>Administrer opsætning af Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action TreasurySetup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 1514883969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>Manage setup of Securities.</source>
+          <target>Administrer opsætning af værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>Setup</source>
+          <target>Opsætning</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 4210297201 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>Manage securities from Treasury.</source>
+          <target>Administrer værdipapirer fra Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action Treasury - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>Manage the ISINs.</source>
+          <target>Administrer ISIN'er.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action ISINs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 376573610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>ISINs</source>
+          <target>ISIN'er</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action ISINs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 315310732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>Manage the securities.</source>
+          <target>Administrer værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action Securities - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 315310732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>Securities</source>
+          <target>Værdipapirer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action Securities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 3949882504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>Manage the security accounts.</source>
+          <target>Administrer depotbeholdninger.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action SecurityAccounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 3949882504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>Security Accounts</source>
+          <target>Depotbeholdninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action SecurityAccounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 1455520556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>Manage setup of Treasury.</source>
+          <target>Administrer opsætning af Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action TreasurySetup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 1514883969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>Manage setup of Securities.</source>
+          <target>Administrer opsætning af værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>Setup</source>
+          <target>Opsætning</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 4210297201 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>Manage securities from Treasury.</source>
+          <target>Administrer værdipapirer fra Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action Treasury - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>Manage the ISINs.</source>
+          <target>Administrer ISIN'er.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action ISINs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 376573610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>ISINs</source>
+          <target>ISIN'er</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action ISINs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 315310732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>Manage the securities.</source>
+          <target>Administrer værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action Securities - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 315310732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>Securities</source>
+          <target>Værdipapirer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action Securities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 3949882504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>Manage the security accounts.</source>
+          <target>Administrer depotbeholdninger.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action SecurityAccounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 3949882504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>Security Accounts</source>
+          <target>Depotbeholdninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action SecurityAccounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 1455520556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>Manage setup of Treasury.</source>
+          <target>Administrer opsætning af Treasury.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action TreasurySetup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 1514883969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>Manage setup of Securities.</source>
+          <target>Administrer opsætning af værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>Setup</source>
+          <target>Opsætning</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action Setup - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 2867973617 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Securities Setup</source>
           <target>Opsætning af værdipapirer</target>
@@ -144,7 +606,7 @@
         </trans-unit>
         <trans-unit id="Page 2867973617 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Securities Setup</source>
-          <target>Værdipapiropstilling</target>
+          <target>Opsætning af værdipapirer</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Securities Setup - Property Caption</note>
         </trans-unit>
@@ -178,9 +640,213 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Securities Setup - Control Unrealized - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 4078762123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Posting Group</source>
+          <target>Værdipapirbogføringsgruppe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 163578681 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the accounting principle of the security posting group.</source>
+          <target>Angiver regnskabsprincippet for værdipapirbogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Accounting Principle - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 163578681 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accounting Principle</source>
+          <target>Regnskabsprincip</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Accounting Principle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 996208328 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the change method T.D.O (Year) of the security posting group.</source>
+          <target>Angiver ændringsmetoden T.D.O (År) for værdipapirbogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Chag Metd T.D.O (Year) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 996208328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chag Metd T.D.O (Year)</source>
+          <target>Ændr.metd. T.D.O (År)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Chag Metd T.D.O (Year) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code of the security posting group.</source>
+          <target>Angiver koden for værdipapirbogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Kode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of the security posting group.</source>
+          <target>Angiver beskrivelsen af værdipapirbogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beskrivelse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 2055509967 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the dividend tax percentage of the security posting group.</source>
+          <target>Angiver udbytteskatteprocenten for værdipapirbogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Dividend Tax Pct. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 2055509967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dividend Tax Pct.</source>
+          <target>Udbytteskat %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Dividend Tax Pct. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 4087486043 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the profit method of the security posting group.</source>
+          <target>Angiver gevinstmetoden for værdipapirbogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Profit Method - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 4087486043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profit Method</source>
+          <target>Gevinstmetode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Profit Method - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 1140679705 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the tax method for yield of the security posting group.</source>
+          <target>Angiver skattemetoden for afkast af værdipapirbogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Tax Method Yield - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 1140679705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Method Yield</source>
+          <target>Skattemetode afkast</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Tax Method Yield - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 2656661165 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the tax type for profit of the security posting group.</source>
+          <target>Angiver skattetypen for gevinst af værdipapirbogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Tax Type Profit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4078762123 - Field 2656661165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Type Profit</source>
+          <target>Skattetype gevinst</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Posting Group - Field Tax Type Profit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Profit Posting Group</source>
+          <target>Værdipapirværdibogføringsgruppe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Field 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document type of the security profit posting group.</source>
+          <target>Angiver bilagstypen for værdipapirværdibogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Field Document Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Bilagstype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Field 4274826855 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the G/L account of the security profit posting group.</source>
+          <target>Angiver finanskontoen for værdipapirværdibogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Field G/L Account - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Field 4274826855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account</source>
+          <target>Finanskonto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Field G/L Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Field 284554750 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the posting group code of the security profit posting group.</source>
+          <target>Angiver bogføringsgruppekoden for værdipapirværdibogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Field Posting Group Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Field 284554750 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Group Code</source>
+          <target>Bogføringsgruppekode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Field Posting Group Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Field 2572112562 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the profit type of the security profit posting group.</source>
+          <target>Angiver gevinsttypen for værdipapirværdibogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Field Profit Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Field 2572112562 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profit Type</source>
+          <target>Gevinsttype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Field Profit Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Field 1415927496 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the realization type of the security profit posting group.</source>
+          <target>Angiver realiseringstypen for værdipapirværdibogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Field Realization Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Field 1415927496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Realization Type</source>
+          <target>Realiseringstype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Field Realization Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Field 2135070884 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether this is a reversal entry for the security profit posting group.</source>
+          <target>Angiver om dette er en tilbageførselspost for værdipapirværdibogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Field Reversal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Field 2135070884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reversal</source>
+          <target>Tilbageførsel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Field Reversal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Field 46082055 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the tax type of the security profit posting group.</source>
+          <target>Angiver skattetypen for værdipapirværdibogføringsgruppen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Field Tax Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 746119185 - Field 46082055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Type</source>
+          <target>Skattetype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Profit Posting Group - Field Tax Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1367975574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Posting Groups</source>
+          <target>Værdipapirbogføringsgrupper</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Posting Groups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4282663368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Profit Posting Groups</source>
+          <target>Værdipapirværdibogføringsgrupper</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Profit Posting Groups - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 1267408499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Account</source>
-          <target>Konto</target>
+          <target>Depot</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Account - Property Caption</note>
         </trans-unit>
@@ -261,349 +927,33 @@
         </trans-unit>
         <trans-unit id="Table 1267408499 - Field 3061592676 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the security account number.</source>
-          <target>Angiver værdipapirekonto nummeret.</target>
+          <target>Angiver depotnummeret.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Account - Field Security Account No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 1267408499 - Field 3061592676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Security Account No.</source>
-          <target>Værdipapirekonto nr.</target>
+          <target>Depotnummer</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Account - Field Security Account No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2389485278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Accounts</source>
-          <target>Konti</target>
+          <target>Depoter</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Accounts - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Report 3960175616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Security FX Revaluation</source>
-          <target>Omsættelsesafstemning af værdipapirer</target>
+        <trans-unit id="Page 2389485278 - Action 4291854304 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the security accounts for this account.</source>
+          <target>Vis depotbeholdningerne for denne konto.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Report Security FX Revaluation - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Accounts - Action Security Accounts - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Table 1067929953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Security Ledger Entry</source>
-          <target>Værdipapirepost</target>
+        <trans-unit id="Page 2389485278 - Action 4291854304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Accounts</source>
+          <target>Depotbeholdninger</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1067929953 - Method 3152277940 - NamedType 2641182937" size-unit="char" translate="yes" xml:space="preserve">
-          <source>You cannot delete a closed security ledger entry.</source>
-          <target>Du kan ikke slette en lukket værdipapirepost.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Method OnDelete - NamedType ClosedErr</note>
-        </trans-unit>
-        <trans-unit id="Table 1067929953 - Field 592951229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Amount (LCY)</source>
-          <target>Beløb (RV)</target>
-          <target>Beløb (LV)</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Amount (LCY) - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1067929953 - Field 596533615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Amount (Trade Curr)</source>
-          <target>Beløb (handelsvaluta)</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Amount (Trade Curr) - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1067929953 - Field 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Closed</source>
-          <target>Lukket</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Closed - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1067929953 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Currency Code</source>
-          <target>Valutakode</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Currency Code - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1067929953 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Document No.</source>
-          <target>Bilagsnr.</target>
-          <target>Dokumentnr.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Document No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1067929953 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Entry No.</source>
-          <target>Løbenr.</target>
-          <target>Løbenummer</target>
-          <target>Postnr.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Entry No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1067929953 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Posting Date</source>
-          <target>Bogføringsdato</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Posting Date - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1067929953 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Quantity</source>
-          <target>Antal</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Quantity - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1067929953 - Field 537294077 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Realized G/L (LCY)</source>
-          <target>Realiseret G/L (RV)</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Realized G/L (LCY) - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1067929953 - Field 2367056265 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Remaining Quantity</source>
-          <target>Restantal</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Remaining Quantity - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1067929953 - Field 1603483707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Security No.</source>
-            <target>Værdipapirnummer</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Security No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1067929953 - Field 721187528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Unit Cost (Trade Curr)</source>
-          <target>Enhedspris (handelsvaluta)</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Unit Cost (Trade Curr) - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1067929953 - Field 2058538932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Unrealized G/L (LCY)</source>
-          <target>Urealiseret G/L (RV)</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Unrealized G/L (LCY) - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Trade</source>
-          <target>Handel</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 592951229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the total trade amount converted to the local currency using the exchange rate.</source>
-            <target>Viser det totale handelsbeløb konverteret til lokale valuta ved hjælp af vekselkursen.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Amount (LCY) - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 592951229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Amount (LCY)</source>
-          <target>Beløb (RV)</target>
-          <target>Beløb (LV)</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Amount (LCY) - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 596533615 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the total trade amount in the trade currency (calculated as Quantity × Price).</source>
-          <target>Viser det totale handelsbeløb i handelsvaluta (beregnet som Antal × Pris).</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Amount (Trade Curr) - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 596533615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Amount (Trade Curr)</source>
-            <target>Beløb (handelsvaluta)</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Amount (Trade Curr) - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 4248640148 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the bank account used for settlement of this trade.</source>
-            <target>Angiver den bankkonto, der bruges til afregning af dette handel.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Bank Account No. - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 4248640148 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Bank Account No.</source>
-          <target>Bankkontonr.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Bank Account No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 4198939294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the currency code for the trade. If blank, the local currency is used.</source>
-          <target>Angiver valutakoden for handelen. Hvis blank, bruges den lokale valuta.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Currency Code - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Currency Code</source>
-          <target>Valutakode</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Currency Code - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the document number associated with this trade transaction.</source>
-          <target>Angiver dokumentnummeret forbundet med denne handelsoperation.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Document No. - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Document No.</source>
-          <target>Bilagsnr.</target>
-          <target>Dokumentnr.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Document No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 541734643 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the exchange rate used to convert the trade currency amount to local currency.</source>
-          <target>Viser vekselkursen, der bruges til at konvertere handelsvalutabeløbet til lokale valuta.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Exchange Rate - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 541734643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Curr. Factor (LCY per unit)</source>
-          <target>Valutafaktor (RV pr. enhed)</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Exchange Rate - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 2970240159 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the fee amount converted to the local currency using the exchange rate.</source>
-          <target>Angiver gebyrbeløbet konverteret til lokale valuta ved hjælp af vekselkursen.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Fee Amount (LCY) - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 2970240159 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Fee Amount (LCY)</source>
-          <target>Gebyrbeløb (RV)</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Fee Amount (LCY) - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 3222121677 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the fee amount in the trade currency.</source>
-          <target>Angiver gebyrbeløbet i handelsvaluta.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Fee Amount (Trade Curr) - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 3222121677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Fee Amount (Trade Currency)</source>
-          <target>Gebyrbeløb (handelsvaluta)</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Fee Amount (Trade Curr) - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the unique identifier for the trade transaction.</source>
-          <target>Angiver den unikke identifikator for handelsoperationen.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field No. - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>No.</source>
-          <target>Nummer</target>
-          <target>Nej.</target>
-          <target>Nr.</target>
-          <target>Nej</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 35450067 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Indicates whether this trade has been posted. Posted trades cannot be modified.</source>
-            <target>Angiver om denne handel er bogført. Bogførte handler kan ikke ændres.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Posted - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 35450067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Posted</source>
-          <target>Bogført</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Posted - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the date when the trade transaction occurred.</source>
-          <target>Angiver datoen, hvor handelsoperationen fandt sted.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Posting Date - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Posting Date</source>
-          <target>Bogføringsdato</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Posting Date - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 3893648480 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the price per unit in the trade currency.</source>
-          <target>Angiver prisen per enhed i handelsvaluta.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Price (Trade Curr) - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 3893648480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Price (Trade Curr)</source>
-          <target>Pris (handelsvaluta)</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Price (Trade Curr) - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the number of shares or units being traded.</source>
-          <target>Angiver antallet af aktier eller enheder, der handles.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Quantity - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Quantity</source>
-          <target>Antal</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Quantity - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 1603483707 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the security that is being traded in this transaction.</source>
-            <target>Angiver værdipapiret, der handles i denne transaktion.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Security No. - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 1603483707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Security No.</source>
-          <target>Værdipapirnummer</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Security No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 3031359178 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies whether this is a buy or sell transaction.</source>
-          <target>Angiver om dette er en købs- eller salgsoperation.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Trade Type - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Table 1554724826 - Field 3031359178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Trade Type</source>
-            <target>Handelstype</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Trade - Field Trade Type - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 167402622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Trade Card</source>
-          <target>Handelspost</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Trade Card - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 167402622 - Control 1439501071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Fees</source>
-            <target>Gebyrer</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Trade Card - Control Fees - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 167402622 - Action 2282416948 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Post the trade</source>
-          <target>Bogfør handelen</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Trade Card - Action Post - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 167402622 - Action 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Post</source>
-          <target>Bogfør</target>
-          <target>Post</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Trade Card - Action Post - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Enum 3031359178 - EnumValue 2677192826 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Buy</source>
-          <target>Køb</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Enum Trade Type - EnumValue Buy - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Enum 3031359178 - EnumValue 3920998362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Sell</source>
-          <target>Salg</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Enum Trade Type - EnumValue Sell - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Accounts - Action Security Accounts - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2840712348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>ISIN Code</source>
@@ -622,6 +972,1048 @@
           <target>Kode</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table ISIN Code - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1877328285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ISIN Codes</source>
+          <target>ISIN-koder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISIN Codes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Account Ledger Entry</source>
+          <target>Depotbeholdsningspost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 2877895369 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the balance account.</source>
+          <target>Angiver modkontoen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Balance Account - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 2877895369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance Account</source>
+          <target>Statuskonto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Balance Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 3911366801 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the balance account type.</source>
+          <target>Angiver modkontotype.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Balance Account Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 3911366801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance Account Type</source>
+          <target>Modkontotype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Balance Account Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of the entry.</source>
+          <target>Angiver beskrivelsen af posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beskrivelse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document number.</source>
+          <target>Angiver bilagsnummeret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Bilagsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document type.</source>
+          <target>Angiver bilagstype.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Document Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Bilagstype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the security account ledger entry.</source>
+          <target>Angiver løbenummeret for depotbeholdsningsposten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Løbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the posting date of the entry.</source>
+          <target>Angiver bogføringsdatoen for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Posting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Bogføringsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity of securities.</source>
+          <target>Angiver beholdningen af værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Antal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 2190767219 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if this is a reclassification entry.</source>
+          <target>Angiver at det er en omposteringspost.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Reclassification - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 2190767219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reclassification</source>
+          <target>Ompostering</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Reclassification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 2942502047 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if this entry represents a rounding difference.</source>
+          <target>Angiver om denne post repræsenterer en afrundingsdifference.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Rounding Difference - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 2942502047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rounding Difference</source>
+          <target>Afrundingsdifference</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Rounding Difference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 955140262 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the security account code.</source>
+          <target>Angiver koden for depotbeholdningen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Security Account Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 955140262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Account Code</source>
+          <target>Depotbeholdningskode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Security Account Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 281984684 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the security ledger entry number.</source>
+          <target>Angiver løbenummeret for værdipapirposten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Security Ledger Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 281984684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Ledger Entry No.</source>
+          <target>Værdipapirpostløbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Security Ledger Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 1603483707 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the security number.</source>
+          <target>Angiver nummeret for værdipapiret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Security No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 1603483707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security No.</source>
+          <target>Værdipapirnummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Security No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 548745649 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the trading date of the entry.</source>
+          <target>Angiver handelsdatoen for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Trading Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 548745649 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trading Date</source>
+          <target>Handelsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Trading Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user ID who created the entry.</source>
+          <target>Angiver bruger-id'et for den bruger, der oprettede posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 874318466 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>Bruger-id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Ledger Entry</source>
+          <target>Værdipapirepost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 968122008 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the reciprocal of the account currency factor.</source>
+          <target>Angiver den reciprokke værdi af kontovalutafaktoren.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Acc. Curr. Factor Reciprocal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 968122008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acc. Curr. Factor Reciprocal</source>
+          <target>Kontovalutafaktor reciprok</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Acc. Curr. Factor Reciprocal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3736602439 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the account amount.</source>
+          <target>Angiver kontobeløbet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Account Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3736602439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Amount</source>
+          <target>Kontobeløb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Account Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3511821205 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the account currency code.</source>
+          <target>Angiver kontovalutakoden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Account Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3511821205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Currency Code</source>
+          <target>Kontovalutakode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Account Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1558875629 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the account currency factor.</source>
+          <target>Angiver kontovalutafaktoren.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Account Currency Factor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1558875629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Currency Factor</source>
+          <target>Kontovalutafaktor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Account Currency Factor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount.</source>
+          <target>Angiver beløbet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Beløb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 592951229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount in local currency.</source>
+          <target>Angiver beløbet i lokal valuta.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Amount (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 592951229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount (LCY)</source>
+          <target>Beløb (RV)</target>
+          <target>Beløb (LV)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Amount (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 382783465 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount before interest.</source>
+          <target>Angiver beløbet før renter.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Amount B.I. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 382783465 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount B.I.</source>
+          <target>Beløb før renter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Amount B.I. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1206490820 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if this is a bonus share entry.</source>
+          <target>Angiver om dette er en bonusaktie-post.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Bonus Share - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1206490820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonus Share</source>
+          <target>Bonusaktie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Bonus Share - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2394849948 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the costs associated with the transaction.</source>
+          <target>Angiver omkostningerne forbundet med transaktionen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Costs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2394849948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Costs</source>
+          <target>Omkostninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Costs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 4198939294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the currency code.</source>
+          <target>Angiver valutakoden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target>Valutakode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2324056710 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the currency factor.</source>
+          <target>Angiver valutafaktoren.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Currency Factor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2324056710 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Factor</source>
+          <target>Valutafaktor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Currency Factor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1092945320 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the reciprocal of the currency factor.</source>
+          <target>Angiver den reciprokke værdi af valutafaktoren.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Currency Factor Reciprocal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1092945320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Factor Reciprocal</source>
+          <target>Valutafaktor reciprok</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Currency Factor Reciprocal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of the entry.</source>
+          <target>Angiver beskrivelsen af posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beskrivelse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3322554545 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the dimension set ID for the entry.</source>
+          <target>Angiver dimensionsgruppe-id'et for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Dimension Set ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3322554545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Set ID</source>
+          <target>Dimensionsgruppe-id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Dimension Set ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1043598248 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the dividend tax amount.</source>
+          <target>Angiver udbytteskatbeløbet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Dividend Tax - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1043598248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dividend Tax</source>
+          <target>Udbytteskat</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Dividend Tax - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2993219597 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the dividend tax amount in local currency.</source>
+          <target>Angiver udbytteskatbeløbet i lokal valuta.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Dividend Tax (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2993219597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dividend Tax (LCY)</source>
+          <target>Udbytteskat (LV)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Dividend Tax (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document number.</source>
+          <target>Angiver bilagsnummeret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Bilagsnr.</target>
+          <target>Dokumentnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document type.</source>
+          <target>Angiver bilagstype.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Document Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Bilagstype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2360952980 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if this is a drawing entry.</source>
+          <target>Angiver om dette er en trækningspost.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Drawing - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2360952980 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Drawing</source>
+          <target>Trækning</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Drawing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the security ledger entry.</source>
+          <target>Angiver løbenummeret for værdipapirposten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Løbenr.</target>
+          <target>Løbenummer</target>
+          <target>Postnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1527563463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the external document number.</source>
+          <target>Angiver det eksterne bilagsnummer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field External Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <target>Eksternt bilagsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3170984746 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the finance description of the entry.</source>
+          <target>Angiver finansbeskrivelsen af posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Finance Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3170984746 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finance Description</source>
+          <target>Finansbeskrivelse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Finance Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1303377601 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the global dimension 1 code.</source>
+          <target>Angiver global dimension 1 kode.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Global Dimension 1 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1303377601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 1 Code</source>
+          <target>Global dimension 1-kode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Global Dimension 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1337243520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the global dimension 2 code.</source>
+          <target>Angiver global dimension 2 kode.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Global Dimension 2 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1337243520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 2 Code</source>
+          <target>Global dimension 2-kode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Global Dimension 2 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3586651397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the index price.</source>
+          <target>Angiver indekskursen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Index Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3586651397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Index Price</source>
+          <target>Indekskurs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Index Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2840225090 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the journal name used for the entry.</source>
+          <target>Angiver kladdenavnet, der bruges til posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Journal Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2840225090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Name</source>
+          <target>Kladdenavn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Journal Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2700116880 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the market-value principle is applied.</source>
+          <target>Angiver om markedsværdiprincippet anvendes.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Market-Value Principle - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2700116880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Market-Value Principle</source>
+          <target>Markedsværdiprincip</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Market-Value Principle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3771739932 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number series used for the entry.</source>
+          <target>Angiver nummerserien, der bruges til posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Number Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3771739932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number Series</source>
+          <target>Nummerserie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Number Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 4259830144 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the entry is open.</source>
+          <target>Angiver om posten er åben.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Open - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <target>Åben</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the posting date of the entry.</source>
+          <target>Angiver bogføringsdatoen for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Posting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Bogføringsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3635338911 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the price of the security.</source>
+          <target>Angiver kursen på værdipapiret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target>Kurs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity of securities.</source>
+          <target>Angiver antallet af værdipapirer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Antal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1415927496 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the realization type.</source>
+          <target>Angiver realiseringstypen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Realization Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1415927496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Realization Type</source>
+          <target>Realiseringstype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Realization Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1908046867 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the reason code for the entry.</source>
+          <target>Angiver årsagskoden for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Reason Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1908046867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason Code</source>
+          <target>Årsagskode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Reason Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1051192910 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ledger entry number that reclassified this entry.</source>
+          <target>Angiver løbenummeret for den post, der omposterede denne post.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Reclass. by Ledger Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1051192910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reclass. by Ledger Entry No.</source>
+          <target>Ompost. af løbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Reclass. by Ledger Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1239445994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the entry has been reclassified.</source>
+          <target>Angiver om posten er blevet omposteret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Reclassified - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1239445994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reclassified</source>
+          <target>Omposteret</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Reclassified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1603483707 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the security number.</source>
+          <target>Angiver nummeret for værdipapiret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Security No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1603483707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security No.</source>
+          <target>Værdipapirnummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Security No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1594812604 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the share size.</source>
+          <target>Angiver størrelsen af udbyttet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Share Size - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1594812604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Share Size</source>
+          <target>Udbyttestørrelse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Share Size - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2720485332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the source code for the entry.</source>
+          <target>Angiver kildekoden for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Source Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <target>Kildekode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 548745649 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the trading date of the entry.</source>
+          <target>Angiver handelsdatoen for posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Trading Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 548745649 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trading Date</source>
+          <target>Handelsdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Trading Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 94875311 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the trading interest.</source>
+          <target>Angiver handelsrenter.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Trading Interest - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 94875311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trading Interest</source>
+          <target>Handelsrenter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Trading Interest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 989907366 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the trading interest in local currency.</source>
+          <target>Angiver handelsrenter i lokal valuta.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Trading Interest (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 989907366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trading Interest (LCY)</source>
+          <target>Handelsrenter (LV)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Trading Interest (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3319631365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the transaction number of the security ledger entry.</source>
+          <target>Angiver transaktionsnummeret for værdipapirposten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Transaction No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 3319631365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <target>Transaktionsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Transaction No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2734347289 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the security number this entry was transferred from.</source>
+          <target>Angiver værdipapirnummeret, som denne post blev overført fra.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Transferred from Security No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2734347289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transferred from Security No.</source>
+          <target>Overført fra værdipapirnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Transferred from Security No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user ID who created the entry.</source>
+          <target>Angiver bruger-id'et for den bruger, der oprettede posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>Bruger-id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1430393035 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the yield before tax.</source>
+          <target>Angiver afkastet før skat.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Yield Before Tax - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 1430393035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Yield Before Tax</source>
+          <target>Afkast før skat</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Yield Before Tax - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2176632122 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the yield before tax in local currency.</source>
+          <target>Angiver afkastet før skat i lokal valuta.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Yield Before Tax (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1067929953 - Field 2176632122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Yield Before Tax (LCY)</source>
+          <target>Afkast før skat (LV)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Yield Before Tax (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Register</source>
+          <target>Værdipapirjournal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2398184335 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the from entry number of the security register.</source>
+          <target>Angiver fra-løbenummeret for værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field From Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2398184335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Entry No.</source>
+          <target>Fra løbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field From Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 3779759824 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the from security account entry number of the security register.</source>
+          <target>Angiver fra-løbenummeret for depotbeholdningsposten i værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field From Security Acc. Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 3779759824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Security Acc. Entry No.</source>
+          <target>Fra depotbeh. løbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field From Security Acc. Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 1292368092 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the issuing date of the security register.</source>
+          <target>Angiver udstedelsesdatoen for værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Issuing Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 1292368092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issuing Date</source>
+          <target>Udstedelsesdato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Issuing Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2704330142 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the journal batch name of the security register.</source>
+          <target>Angiver kladdenavnet for værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Journal Batch Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <target>Kladdenavn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the security register.</source>
+          <target>Angiver nummeret for værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2720485332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the source code of the security register.</source>
+          <target>Angiver kildekoden for værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Source Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <target>Kildekode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 656469164 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the to entry number of the security register.</source>
+          <target>Angiver til-løbenummeret for værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field To Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 656469164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Entry No.</source>
+          <target>Til løbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field To Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2914421611 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the to security account entry number of the security register.</source>
+          <target>Angiver til-løbenummeret for depotbeholdningsposten i værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field To Security Acc. Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2914421611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Security Acc. Entry No.</source>
+          <target>Til depotbeh. løbenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field To Security Acc. Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user ID of the security register.</source>
+          <target>Angiver bruger-id'et for værdipapirjournalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3600136817 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>Bruger-id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Register - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2103883034 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Account Ledger Entries</source>
+          <target>Værdipapirsbeholdningsposter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Acc. Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4177493467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Ledger Entries</source>
+          <target>Værdipapirsposter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3600136817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Register</source>
+          <target>Værdipapirs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3600136817 - Action 3672253057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Register</source>
+          <target>&amp;Journal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action &amp;Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3600136817 - Action 431691676 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the security account ledger entries for this register.</source>
+          <target>Vis værdipapirsbeholdningsposter for denne journalpost.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action Security Account Ledger Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3600136817 - Action 431691676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Account Ledger Entries</source>
+          <target>Værdipapirsbeholdningsposter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action Security Account Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3600136817 - Action 4177493467 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the security ledger entries for this register.</source>
+          <target>Vis værdipapirsposter for denne journalpost.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action Security Ledger Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3600136817 - Action 4177493467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Ledger Entries</source>
+          <target>Værdipapirsposter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action Security Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1959702151 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Investment Fund Price</source>
+          <target>Fondskurs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Investment Fund Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1959702151 - Field 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date of the price.</source>
+          <target>Angiver datoen for fondskursen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Investment Fund Price - Field Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1959702151 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Dato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Investment Fund Price - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1959702151 - Field 2840712348 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ISIN code of the investment fund.</source>
+          <target>Angiver ISIN-koden for fonden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Investment Fund Price - Field ISIN Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1959702151 - Field 2840712348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ISIN Code</source>
+          <target>ISIN-kode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Investment Fund Price - Field ISIN Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1959702151 - Field 538051901 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the issuer of the investment fund.</source>
+          <target>Angiver udstederen af fonden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Investment Fund Price - Field Issuer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1959702151 - Field 538051901 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issuer</source>
+          <target>Udsteder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Investment Fund Price - Field Issuer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1959702151 - Field 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the investment fund.</source>
+          <target>Angiver navnet på fonden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Investment Fund Price - Field Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1959702151 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Navn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Investment Fund Price - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1959702151 - Field 872771869 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the nominal interest rate percentage.</source>
+          <target>Angiver den nominelle rente i procent.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Investment Fund Price - Field Nominal Interest Rate Pct. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1959702151 - Field 872771869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nominal Interest Rate %</source>
+          <target>Nominel rente %</target>
+          <note from="Developer" annotates="" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Investment Fund Price - Field Nominal Interest Rate Pct. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1959702151 - Field 3635338911 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the price of the investment fund.</source>
+          <target>Angiver kursen på fonden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Investment Fund Price - Field Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1959702151 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target>Kurs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Investment Fund Price - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 136274674 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Investment Fund Prices</source>
+          <target>Fondskurser</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Investment Fund Prices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 136274674 - Action 37702782 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export investment fund prices to external file.</source>
+          <target>Eksporterer fondskurser til ekstern fil.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Investment Fund Prices - Action Export Prices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 136274674 - Action 37702782 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Prices</source>
+          <target>Eksporter fondskurser</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Investment Fund Prices - Action Export Prices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 136274674 - Action 3299588741 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import investment fund prices from external source.</source>
+          <target>Importer fondskurser fra ekstern kilde.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Investment Fund Prices - Action Import Prices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 136274674 - Action 3299588741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Prices</source>
+          <target>Importer fondskurser</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Investment Fund Prices - Action Import Prices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 136274674 - Action 840695458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price Management</source>
+          <target>Kursstyring</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Investment Fund Prices - Action Price Management - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1414360946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Security</source>
@@ -845,13 +2237,13 @@
         </trans-unit>
         <trans-unit id="Table 1414360946 - Field 1221401457 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Payment Code</source>
-            <target>Betalingskode</target>
+          <target>Betalingskode</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security - Field Payment Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1414360946 - Field 1915851633 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the posting group of the security.</source>
-            <target>Angiver postgruppen for værdipapiret.</target>
+          <target>Angiver postgruppen for værdipapiret.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security - Field Posting Group - Property ToolTip</note>
         </trans-unit>
@@ -921,21 +2313,212 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security - Field Share Size - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3572799109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Comment Line</source>
+          <target>Værdipapir kommentarlinje</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3572799109 - Field 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code of the security comment line.</source>
+          <target>Angiver koden for værdipapir kommentarlinjen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3572799109 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Kode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3572799109 - Field 2790486453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the comment of the security comment line.</source>
+          <target>Angiver kommentaren for værdipapir kommentarlinjen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Comment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3572799109 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <target>Kommentar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3572799109 - Field 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date of the security comment line.</source>
+          <target>Angiver datoen for værdipapir kommentarlinjen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3572799109 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Dato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3572799109 - Field 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the line number of the security comment line.</source>
+          <target>Angiver linjenummeret for værdipapir kommentarlinjen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3572799109 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Linjenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3572799109 - Field 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the security that the comment line belongs to.</source>
+          <target>Angiver nummeret på værdipapiret, som kommentarlinjen tilhører.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3572799109 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 315310732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Securities</source>
+          <target>Værdipapirer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Securities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 315310732 - Action 3000180178 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or add comments for the record.</source>
+          <target>Få vist, eller tilføj bemærkninger til værdipapiret.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Securities - Action Co&amp;mments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 315310732 - Action 3000180178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co&amp;mments</source>
+          <target>Be&amp;mærkninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Securities - Action Co&amp;mments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 315310732 - Action 136274674 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the investment fund prices for this security.</source>
+          <target>Vis fondskurserne for dette værdipapir.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Securities - Action Investment Fund Prices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 315310732 - Action 136274674 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Investment Fund Prices</source>
+          <target>Fondskurser</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Securities - Action Investment Fund Prices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 315310732 - Action 4291854304 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the accounts assigned to this security.</source>
+          <target>Vis kontoerne, der er tilknyttet dette værdipapir.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Securities - Action Security Accounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 315310732 - Action 4291854304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Accounts</source>
+          <target>Depotbeholdninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Securities - Action Security Accounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 918540822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Card</source>
+          <target>Deportkort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 918540822 - Action 3000180178 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or add comments for the record.</source>
+          <target>Få vist, eller tilføj bemærkninger til posten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Card - Action Co&amp;mments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 918540822 - Action 3000180178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co&amp;mments</source>
+          <target>Be&amp;mærkninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Card - Action Co&amp;mments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 918540822 - Action 136274674 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the investment fund prices for this security.</source>
+          <target>Vis fondskurserne for dette værdipapir.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Card - Action Investment Fund Prices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 918540822 - Action 136274674 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Investment Fund Prices</source>
+          <target>Fondskurser</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Card - Action Investment Fund Prices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 918540822 - Action 4291854304 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the accounts assigned to this security.</source>
+          <target>Vis kontoerne, der er tilknyttet dette værdipapir.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Card - Action Security Accounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 918540822 - Action 4291854304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Accounts</source>
+          <target>Depotbeholdninger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Card - Action Security Accounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1471743217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Comment List</source>
+          <target>Værdipapir kommentarliste</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Comment List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1807497862 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Security Comment Sheet</source>
+          <target>Værdipapir kommentarark</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Security Comment Sheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1196706194 - EnumValue 995832697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bond</source>
+          <target>Obligation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Security Type - EnumValue Bond - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1196706194 - EnumValue 3153743028 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stock</source>
+          <target>Aktie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Security Type - EnumValue Stock - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 1982888649 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Security Account Assignment</source>
-          <target>Værdipapirkontooplæg</target>
+          <source>Security Account</source>
+          <target>Depotbeholdning</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Account - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1982888649 - Field 2711785896 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the account code.</source>
-          <target>Angiver kontokoden.</target>
+          <target>Angiver koden for depotet.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Account - Field Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 1982888649 - Field 2711785896 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Account Code</source>
-          <target>Kontokode</target>
+          <target>Depotkode</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Account - Field Account Code - Property Caption</note>
         </trans-unit>
@@ -963,65 +2546,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Account - Field Standard - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1877328285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>ISIN Codes</source>
-          <target>ISIN-koder</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page ISIN Codes - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 315310732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Securities</source>
-          <target>Værdipapirer</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Securities - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 315310732 - Action 4291854304 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>View the accounts assigned to this security.</source>
-          <target>Vis kontoerne, der er tilknyttet dette værdipapir.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Securities - Action Security Accounts - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 315310732 - Action 4291854304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Security Accounts</source>
-          <target>Værdipapirkonti</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Securities - Action Security Accounts - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Page 4291854304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Security Accounts</source>
-          <target>Værdipapirkonti</target>
+          <target>Depotbeholdninger</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Security Accounts - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 918540822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Security Card</source>
-          <target>Værdipapirkort</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Security Card - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 918540822 - Action 4291854304 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>View the accounts assigned to this security.</source>
-            <target>Vis kontoerne, der er tilknyttet dette værdipapir.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Security Card - Action Security Accounts - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 918540822 - Action 4291854304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Security Accounts</source>
-          <target>Værdipapirkonti</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Security Card - Action Security Accounts - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Enum 1196706194 - EnumValue 995832697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Bond</source>
-          <target>Obligation</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Enum Security Type - EnumValue Bond - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Enum 1196706194 - EnumValue 3153743028 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Stock</source>
-            <target>Aktie</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Enum Security Type - EnumValue Stock - Property Caption</note>
         </trans-unit>
       </group>
     </body>

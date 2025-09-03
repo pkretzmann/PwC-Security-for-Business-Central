@@ -1,10 +1,12 @@
 /// <summary>
 /// Table for securities
 /// </summary>
-namespace PwC.Securities;
+namespace PwC.Securities.Security;
 
 using Microsoft.Finance.Currency;
 using Microsoft.Foundation.Address;
+using PwC.Securities;
+using PwC.Securities.ISIN;
 
 table 79901 Security
 {
@@ -150,12 +152,27 @@ table 79901 Security
         {
             Caption = 'Report Grouping Code';
             ToolTip = 'Specifies the report grouping code.';
-            NotBlank = true;
+            // TODO tableRelation to report group?
         }
+        // TODO: Security: Add flow fields
     }
 
     keys
     {
         key(PK; "No.") { Clustered = true; }
     }
+
+    /// <summary>
+    /// Opens a page to show comments for the security.
+    /// </summary>
+    procedure ShowLineComments()
+    var
+        SecurityCommentLine: Record "Security Comment Line";
+        SecurityCommentSheet: Page "Security Comment Sheet";
+    begin
+        this.TestField("No.");
+        SecurityCommentLine.SetRange("No.", "No.");
+        SecurityCommentSheet.SetTableView(SecurityCommentLine);
+        SecurityCommentSheet.RunModal();
+    end;
 }

@@ -1,7 +1,7 @@
 /// <summary>
 /// Enum for security type
 /// </summary>
-namespace PwC.Securities;
+namespace PwC.Securities.Security;
 
 enum 79901 "Security Type"
 {

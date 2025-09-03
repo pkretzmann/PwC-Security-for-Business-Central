@@ -13,7 +13,6 @@ using Microsoft.Intercompany.Partner;
 using Microsoft.Finance.AllocationAccount;
 using Microsoft.HumanResources.Employee;
 using Microsoft.Finance.Dimension;
-using PwC.Securities;
 
 table 79904 Account
 {
@@ -41,7 +40,6 @@ table 79904 Account
             Caption = 'Security Account No.';
             DataClassification = CustomerContent;
             ToolTip = 'Specifies the security account number.';
-            // TODO TableRelation = "Security Account"; Where to find the security account?
         }
         field(4; "Bal. Account Type"; Enum "Gen. Journal Account Type")
         {
@@ -49,7 +47,7 @@ table 79904 Account
             ValuesAllowed = "G/L Account", "Bank Account";
             ToolTip = 'Specifies the balance account type.';
         }
-        field(5; "Bal. Account No."; Code[20]) //"Balance Account"; Code[40])
+        field(5; "Bal. Account No."; Code[20]) // "Balance Account"; Code[40]) TODO: Delete comment
         {
             Caption = 'Bal. Account No.';
             ToolTip = 'Specifies the balance account number.';

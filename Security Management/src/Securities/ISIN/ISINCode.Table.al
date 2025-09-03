@@ -1,7 +1,7 @@
 /// <summary>
 /// Table for ISIN codes
 /// </summary>
-namespace PwC.Securities;
+namespace PwC.Securities.ISIN;
 
 table 79905 "ISIN Code"
 {
