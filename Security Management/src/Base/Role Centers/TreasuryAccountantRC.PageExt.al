@@ -49,7 +49,7 @@ pageextension 79902 "Treasury Accountant RC" extends "Accountant Role Center"
                     ApplicationArea = All;
                     Caption = 'ISINs';
                     Image = Bin;
-                    RunObject = page "ISIN Codes";
+                    RunObject = page ISINs;
                     ToolTip = 'Manage the ISINs.';
                 }
             }

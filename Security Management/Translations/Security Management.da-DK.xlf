@@ -955,29 +955,29 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Accounts - Action Security Accounts - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 2840712348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>ISIN Code</source>
-          <target>ISIN-kode</target>
+        <trans-unit id="Table 2273006975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ISIN</source>
+          <target>ISIN</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table ISIN Code - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ISIN - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 2840712348 - Field 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 2273006975 - Field 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the ISIN code.</source>
           <target>Angiver ISIN-koden.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table ISIN Code - Field Code - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ISIN - Field Code - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Table 2840712348 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 2273006975 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Code</source>
           <target>Kode</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table ISIN Code - Field Code - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ISIN - Field Code - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1877328285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>ISIN Codes</source>
-          <target>ISIN-koder</target>
+        <trans-unit id="Page 376573610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ISINs</source>
+          <target>ISIN'er</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page ISIN Codes - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ISINs - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 874318466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Security Account Ledger Entry</source>
@@ -2315,79 +2315,68 @@
         </trans-unit>
         <trans-unit id="Table 3572799109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Security Comment Line</source>
-          <target>Værdipapir kommentarlinje</target>
+          <target>Værdipapirbemærkningslinje</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3572799109 - Field 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the code of the security comment line.</source>
-          <target>Angiver koden for værdipapir kommentarlinjen.</target>
+          <target>Angiver koden for værdipapirbemærkningslinjen.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 3572799109 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Code</source>
           <target>Kode</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3572799109 - Field 2790486453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the comment of the security comment line.</source>
-          <target>Angiver kommentaren for værdipapir kommentarlinjen.</target>
+          <target>Angiver bemærkningen for værdipapirbemærkningslinjen.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Comment - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 3572799109 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Comment</source>
-          <target>Kommentar</target>
+          <target>Bemærkning</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Comment - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3572799109 - Field 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the date of the security comment line.</source>
-          <target>Angiver datoen for værdipapir kommentarlinjen.</target>
+          <target>Angiver datoen for værdipapirsbemærkningslinjen.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Date - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 3572799109 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Date</source>
           <target>Dato</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Date - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3572799109 - Field 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the line number of the security comment line.</source>
-          <target>Angiver linjenummeret for værdipapir kommentarlinjen.</target>
+          <target>Angiver linjenummeret for værdipapirsbemærkningslinjen.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Line No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 3572799109 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Line No.</source>
           <target>Linjenr.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field Line No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3572799109 - Field 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the number of the security that the comment line belongs to.</source>
-          <target>Angiver nummeret på værdipapiret, som kommentarlinjen tilhører.</target>
+          <target>Angiver nummeret på værdipapiret, som bemærkningslinjen tilhører.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 3572799109 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>No.</source>
           <target>Nummer</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Comment Line - Field No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 315310732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -2400,14 +2389,12 @@
           <source>View or add comments for the record.</source>
           <target>Få vist, eller tilføj bemærkninger til værdipapiret.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Securities - Action Co&amp;mments - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 315310732 - Action 3000180178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Co&amp;mments</source>
           <target>Be&amp;mærkninger</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Securities - Action Co&amp;mments - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 315310732 - Action 136274674 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
@@ -2444,14 +2431,12 @@
           <source>View or add comments for the record.</source>
           <target>Få vist, eller tilføj bemærkninger til posten.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Security Card - Action Co&amp;mments - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 918540822 - Action 3000180178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Co&amp;mments</source>
           <target>Be&amp;mærkninger</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Security Card - Action Co&amp;mments - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 918540822 - Action 136274674 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
@@ -2480,16 +2465,14 @@
         </trans-unit>
         <trans-unit id="Page 1471743217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Security Comment List</source>
-          <target>Værdipapir kommentarliste</target>
+          <target>Værdipapirbemærkninger</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Security Comment List - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1807497862 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Security Comment Sheet</source>
-          <target>Værdipapir kommentarark</target>
+          <source>Comment</source>
+          <target>Bemærkning</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Security Comment Sheet - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 1196706194 - EnumValue 995832697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">

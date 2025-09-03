@@ -49,7 +49,7 @@ pageextension 79900 "Treasury Business Manager RC" extends "Business Manager Rol
                     ApplicationArea = All;
                     Caption = 'ISINs';
                     Image = Bin;
-                    RunObject = page "ISIN Codes";
+                    RunObject = page ISINs;
                     ToolTip = 'Manage the ISINs.';
                 }
             }

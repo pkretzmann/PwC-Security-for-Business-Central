@@ -19,7 +19,7 @@ table 79907 "Investment Fund Price"
             Caption = 'ISIN Code';
             ToolTip = 'Specifies the ISIN code of the investment fund.';
             NotBlank = true;
-            TableRelation = "ISIN Code";
+            TableRelation = ISIN;
         }
         field(2; Date; Date)
         {

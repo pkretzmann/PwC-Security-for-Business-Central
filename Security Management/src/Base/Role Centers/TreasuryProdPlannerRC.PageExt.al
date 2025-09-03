@@ -49,7 +49,7 @@ pageextension 79901 "Treasury Prod. Planner RC" extends "Production Planner Role
                     ApplicationArea = All;
                     Caption = 'ISINs';
                     Image = Bin;
-                    RunObject = page "ISIN Codes";
+                    RunObject = page ISINs;
                     ToolTip = 'Manage the ISINs.';
                 }
             }

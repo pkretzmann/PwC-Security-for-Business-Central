@@ -49,7 +49,7 @@ pageextension 79906 "Treasury Whse. WMS RC" extends "Whse. WMS Role Center"
                     ApplicationArea = All;
                     Caption = 'ISINs';
                     Image = Bin;
-                    RunObject = page "ISIN Codes";
+                    RunObject = page ISINs;
                     ToolTip = 'Manage the ISINs.';
                 }
             }

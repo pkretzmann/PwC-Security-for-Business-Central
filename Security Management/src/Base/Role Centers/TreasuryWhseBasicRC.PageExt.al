@@ -49,7 +49,7 @@ pageextension 79905 "Treasury Whse. Basic RC" extends "Whse. Basic Role Center"
                     ApplicationArea = All;
                     Caption = 'ISINs';
                     Image = Bin;
-                    RunObject = page "ISIN Codes";
+                    RunObject = page ISINs;
                     ToolTip = 'Manage the ISINs.';
                 }
             }

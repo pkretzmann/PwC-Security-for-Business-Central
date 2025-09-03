@@ -3,13 +3,13 @@
 /// </summary>
 namespace PwC.Securities.ISIN;
 
-page 79905 "ISIN Codes"
+page 79905 ISINs
 {
-    Caption = 'ISIN Codes';
+    Caption = 'ISINs';
     PageType = List;
     ApplicationArea = All;
     UsageCategory = None;
-    SourceTable = "ISIN Code";
+    SourceTable = ISIN;
 
     layout
     {

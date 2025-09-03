@@ -39,3 +39,7 @@ Create ENUMS for the fields
 Security Comment Line
 
 Renamed field Number to Securit No.
+
+## ISIN-Code
+
+Tabellen er omdøbt til ISIN.

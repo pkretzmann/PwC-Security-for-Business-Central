@@ -6,7 +6,7 @@ namespace PwC.Securities.Security;
 page 79911 "Security Comment Sheet"
 {
     AutoSplitKey = true;
-    Caption = 'Security Comment Sheet';
+    Caption = 'Comment';
     DataCaptionFields = "No.";
     DelayedInsert = true;
     LinksAllowed = false;

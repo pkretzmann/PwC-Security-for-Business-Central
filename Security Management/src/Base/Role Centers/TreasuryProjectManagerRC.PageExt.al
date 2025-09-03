@@ -49,7 +49,7 @@ pageextension 79903 "Treasury Project Manager RC" extends "Job Project Manager R
                     ApplicationArea = All;
                     Caption = 'ISINs';
                     Image = Bin;
-                    RunObject = page "ISIN Codes";
+                    RunObject = page ISINs;
                     ToolTip = 'Manage the ISINs.';
                 }
             }

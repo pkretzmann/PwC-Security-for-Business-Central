@@ -3,13 +3,13 @@
 /// </summary>
 namespace PwC.Securities.ISIN;
 
-table 79905 "ISIN Code"
+table 79905 ISIN
 {
-    Caption = 'ISIN Code';
+    Caption = 'ISIN';
     DataClassification = CustomerContent;
     DataCaptionFields = Code;
-    LookupPageId = "ISIN Codes";
-    DrillDownPageId = "ISIN Codes";
+    LookupPageId = ISINs;
+    DrillDownPageId = ISINs;
 
     fields
     {

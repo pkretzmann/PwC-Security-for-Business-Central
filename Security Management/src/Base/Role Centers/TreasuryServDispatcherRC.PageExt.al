@@ -49,7 +49,7 @@ pageextension 79904 "Treasury Serv. Dispatcher RC" extends "Service Dispatcher R
                     ApplicationArea = All;
                     Caption = 'ISINs';
                     Image = Bin;
-                    RunObject = page "ISIN Codes";
+                    RunObject = page ISINs;
                     ToolTip = 'Manage the ISINs.';
                 }
             }

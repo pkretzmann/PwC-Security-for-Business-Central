@@ -28,7 +28,7 @@ table 79901 Security
         {
             Caption = 'ISIN Code';
             ToolTip = 'Specifies the ISIN of the security.';
-            TableRelation = "ISIN Code";
+            TableRelation = ISIN;
         }
         field(3; Name; Text[100])
         {
