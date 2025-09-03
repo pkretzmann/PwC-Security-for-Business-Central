@@ -1528,16 +1528,14 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 2374839567 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Current Market Value B.I.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Aktuel markedsværdi før renter</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Current Market Value B.I. - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3138001638 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the current quantity.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver det aktuelle antal.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Current Quantity - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3138001638 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -1548,23 +1546,20 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3171002267 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the current share size.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver den aktuelle aktie størrelse.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Current Share Size - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3171002267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Current Share Size</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Aktuel aktiestørrelse</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Current Share Size - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the description of the journal line.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver beskrivelsen af kladden.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Description - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -1575,9 +1570,8 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3322554545 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the dimension set ID for the journal line.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver dimensionsgruppe-id for kladden.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Dimension Set ID - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3322554545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -1612,9 +1606,8 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 2055509967 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the dividend tax percentage.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver udbytteskatprocenten.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Dividend Tax Pct. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 2055509967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -1674,16 +1667,14 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 61828920 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies if this is a free entry.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver om dette er en gratis post.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Free - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 61828920 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Free</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Gratis</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Free - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3586651397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
@@ -1700,9 +1691,8 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 2704330142 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the journal batch name.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver kladdenavnet.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Journal Batch Name - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -1713,9 +1703,8 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3684440170 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the journal template name.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver kladdetypenavnet.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Journal Template Name - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3684440170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -1726,9 +1715,8 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the line number of the journal line.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver linjenummeret for kladden.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Line No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -1751,30 +1739,26 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 462705074 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the new security account code.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver den nye værdipapirkontokode.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field New Security Account Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 462705074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>New Security Account Code</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Ny værdipapirkontokode</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field New Security Account Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 778983432 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the new share size.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver den nye aktie størrelse.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field New Share Size - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 778983432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>New Share Size</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Ny aktie størrelse</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field New Share Size - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
@@ -1797,16 +1781,14 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 1957825068 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the posting number series.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver nummerserien for bogføring.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Posting Number Series - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 1957825068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posting Number Series</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Bogføringsnummerserie</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Posting Number Series - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3635338911 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
@@ -1824,7 +1806,6 @@
         <trans-unit id="Table 907978851 - Field 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the quantity of securities.</source>
           <target>Angiver antallet af værdipapirer.</target>
-          <target>Angiver beholdningen af værdipapirer.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Quantity - Property ToolTip</note>
         </trans-unit>
@@ -1848,9 +1829,8 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 1908046867 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the reason code for the journal line.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver årsagskoden for kladdelinjen.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Reason Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 1908046867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -1885,37 +1865,32 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 1577567912 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the shortcut dimension 1 code.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver genvejsdimension 1-koden.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Shortcut Dimension 1 Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 1577567912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Shortcut Dimension 1 Code</source>
           <target>Genvejsdimension 1-kode</target>
-          <target>Kode for genvejsdimension 1</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Shortcut Dimension 1 Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 1003760969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the shortcut dimension 2 code.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver genvejsdimension 2-koden.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Shortcut Dimension 2 Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 1003760969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Shortcut Dimension 2 Code</source>
           <target>Genvejsdimension 2-kode</target>
-          <target>Kode for genvejsdimension 2</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Shortcut Dimension 2 Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 2720485332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the source code for the journal line.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver kildekoden for kladdelinjen.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Source Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -1926,9 +1901,8 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 548745649 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the trading date of the journal line.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver handelsdatoen for kladdelinjen.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Trading Date - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 548745649 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -1963,9 +1937,8 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 2734347289 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the security number this line was transferred from.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver nummeret for værdipapiret, som denne linje blev overført fra.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Transferred from Security No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 2734347289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -2120,30 +2093,26 @@
         </trans-unit>
         <trans-unit id="Page 2166342521 - Control 4021774582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Security Amount</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Værdipapirbeløb</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Control Security Amount - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2166342521 - Control 2025933454 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the security in the current journal batch.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver værdien af værdipapiret i den aktuelle kladdeserie.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Control SecurityAmount - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2166342521 - Control 4137142692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Security Description</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Beskrivelse af værdipapir</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Control Security Description - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2166342521 - Control 2847811148 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies a description of the security.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Angiver en beskrivelse af værdipapiret.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Control SecurityDescription - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2166342521 - Control 874212758 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
@@ -2162,9 +2131,8 @@
         </trans-unit>
         <trans-unit id="Page 2166342521 - Action 1414360946 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>View the detailed information about the Security.</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Vis detaljeret information om værdipapiret.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Action Security - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2166342521 - Action 1414360946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
