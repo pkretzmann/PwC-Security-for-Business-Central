@@ -44,7 +44,7 @@ table 79918 "Security Journal Line"
             Caption = 'Posting Date';
             ToolTip = 'Specifies the posting date of the journal line.';
         }
-        field(6; "Document Type"; Integer)
+        field(6; "Document Type"; Enum "Document Type")
         {
             Caption = 'Document Type';
             ToolTip = 'Specifies the document type.';

@@ -4,6 +4,7 @@
 namespace PwC.PostingSetup;
 
 using Microsoft.Finance.GeneralLedger.Account;
+using PwC.Securities.Journals;
 
 table 79912 "Security Profit Posting Group"
 {
@@ -26,7 +27,7 @@ table 79912 "Security Profit Posting Group"
             Caption = 'Realization Type';
             ToolTip = 'Specifies the realization type of the security profit posting group.';
         }
-        field(3; "Document Type"; Integer)
+        field(3; "Document Type"; Enum "Document Type")
         {
             Caption = 'Document Type';
             ToolTip = 'Specifies the document type of the security profit posting group.';

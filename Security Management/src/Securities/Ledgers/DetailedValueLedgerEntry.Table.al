@@ -4,6 +4,7 @@
 namespace PwC.Securities.Ledgers;
 
 using PwC.Securities.Security;
+using PwC.Securities.Journals;
 
 table 79914 "Detailed Value Ledger Entry"
 {
@@ -47,7 +48,7 @@ table 79914 "Detailed Value Ledger Entry"
             Caption = 'Document No.';
             ToolTip = 'Specifies the document number.';
         }
-        field(7; "Document Type"; Integer)
+        field(7; "Document Type"; Enum "Document Type")
         {
             Caption = 'Document Type';
             ToolTip = 'Specifies the document type.';

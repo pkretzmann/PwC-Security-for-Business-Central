@@ -5,6 +5,7 @@ namespace PwC.Securities.Ledgers;
 
 using PwC.Securities.Security;
 using PwC.Securities.SecurityAccounts;
+using PwC.Securities.Journals;
 
 table 79910 "Security Account Ledger Entry"
 {
@@ -60,7 +61,7 @@ table 79910 "Security Account Ledger Entry"
             Caption = 'Document No.';
             ToolTip = 'Specifies the document number.';
         }
-        field(9; "Document Type"; Integer)
+        field(9; "Document Type"; Enum "Document Type")
         {
             Caption = 'Document Type';
             ToolTip = 'Specifies the document type.';
