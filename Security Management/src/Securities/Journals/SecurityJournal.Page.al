@@ -6,10 +6,11 @@ namespace PwC.Securities.Journals;
 using PwC.Securities.Security;
 using System.Environment;
 using PwC.Securities.Journals.JournalTemplate;
+using PwC.Securities.Posting;
 
 page 79918 "Security Journal"
 {
-    ApplicationArea = Jobs;
+    ApplicationArea = All;
     AutoSplitKey = true;
     Caption = 'Security Journals';
     DataCaptionFields = "Journal Batch Name";
@@ -32,22 +33,38 @@ page 79918 "Security Journal"
                 trigger OnLookup(var Text: Text): Boolean
                 begin
                     CurrPage.SaveRecord();
-                    this.SecurityJournalManagement.LookupName(CurrentJnlBatchName, Rec);
+                    this.SecurityJournalManagement.LookupName(this.CurrentJnlBatchName, Rec);
                     this.SetControlAppearanceFromBatch();
                     CurrPage.Update(false);
                 end;
 
                 trigger OnValidate()
                 begin
-                    this.SecurityJournalManagement.CheckName(CurrentJnlBatchName, Rec);
+                    this.SecurityJournalManagement.CheckName(this.CurrentJnlBatchName, Rec);
                     this.CurrentJnlBatchNameOnAfterValidate();
                 end;
             }
             repeater(Control1)
             {
                 ShowCaption = false;
+
+                field("Trading Date"; Rec."Trading Date") { }
+                field("Posting Date"; Rec."Posting Date") { Visible = false; }
+                field("Document No."; Rec."Document No.") { }
+                field("Document Type"; Rec."Document Type") { }
                 field("Security No."; Rec."Security No.") { }
-                field("Posting Date"; Rec."Posting Date") { }
+                field(Description; Rec.Description) { }
+                field(Drawing; Rec.Drawing) { }
+                field("Currency Code"; Rec."Currency Code") { }
+                field(Quantity; Rec.Quantity) { ShowMandatory = true; }
+                field(Price; Rec.Price) { }
+                field(Costs; Rec.Costs) { }
+                field("Trading Interest"; Rec."Trading Interest") { }
+                field(Amount; Rec.Amount) { }
+                field("Amount (LCY)"; Rec."Amount (LCY)") { }
+                field("Security Account Code"; Rec."Security Account Code") { }
+                field("Bal. Account Type"; Rec."Bal. Account Type") { }
+                field("Bal. Account No."; Rec."Bal. Account No.") { }
 
             }
             group(Control73)
@@ -113,6 +130,23 @@ page 79918 "Security Journal"
                 RunObject = page "Security Card";
                 RunPageLink = "No." = field("Security No.");
                 ToolTip = 'View the detailed information about the Security.';
+            }
+        }
+        area(Processing)
+        {
+            action(Post)
+            {
+                ApplicationArea = Jobs;
+                Caption = 'Post';
+                Image = Post;
+                ToolTip = 'Post the journal.';
+
+                trigger OnAction()
+                var
+                    TradePosting: Codeunit "Trade Posting";
+                begin
+                    TradePosting.Run(Rec);
+                end;
             }
         }
     }

@@ -8,12 +8,14 @@ using PwC.Securities.SecurityAccounts;
 
 page 79902 Securities
 {
-    PageType = List;
-    SourceTable = Security;
     Caption = 'Securities';
-    ApplicationArea = All;
-    UsageCategory = Lists;
     CardPageId = "Security Card";
+    Editable = false;
+    PageType = List;
+    QueryCategory = 'Security List';
+    SourceTable = Security;
+    UsageCategory = Lists;
+    ApplicationArea = All;
 
     layout
     {

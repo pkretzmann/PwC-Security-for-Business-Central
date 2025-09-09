@@ -30,8 +30,8 @@ page 79910 "Security Acc. Ledger Entries"
                 field("Document Type"; Rec."Document Type") { }
                 field("Description"; Rec."Description") { }
                 field("User ID"; Rec."User ID") { }
-                field("Balance Account Type"; Rec."Balance Account Type") { }
-                field("Balance Account"; Rec."Balance Account") { }
+                field("Bal. Account Type"; Rec."Bal. Account Type") { }
+                field("Bal. Account No."; Rec."Bal. Account No.") { }
                 field("Reclassification"; Rec."Reclassification") { }
                 field("Rounding Difference"; Rec."Rounding Difference") { }
             }

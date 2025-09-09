@@ -7,13 +7,10 @@ namespace PwC.Securities.Posting;
 using PwC.Securities.Journals;
 using PwC.Securities.Ledgers;
 using PwC.Securities.Security;
-using PwC.Securities.SecurityAccounts;
 using PwC.PostingSetup;
 using Microsoft.Finance.GeneralLedger.Journal;
 using Microsoft.Finance.GeneralLedger.Posting;
 using Microsoft.Finance.GeneralLedger.Ledger;
-using Microsoft.Foundation.AuditCodes;
-using Microsoft.Foundation.NoSeries;
 
 codeunit 79920 "Trade Posting"
 {
@@ -44,32 +41,31 @@ codeunit 79920 "Trade Posting"
     /// <param name="SecurityJournalLine">The security journal line to post</param>
     procedure RunWithCheck(var SecurityJournalLine: Record "Security Journal Line")
     begin
-        OnBeforeRunWithCheck(SecurityJournalLine);
+        this.OnBeforeRunWithCheck(SecurityJournalLine);
 
-        CheckLine(SecurityJournalLine);
-        InitializeGlobals();
-        FindNextTransactionNo();
-        InitRegister();
+        this.CheckLine(SecurityJournalLine);
+        this.InitializeGlobals();
+        this.FindNextTransactionNo();
+        this.InitRegister();
 
-        PostSecurityJnlLine(SecurityJournalLine);
-        FinishRegister();
+        this.PostSecurityJnlLine(SecurityJournalLine);
+        this.FinishRegister();
 
-        OnAfterRunWithCheck(SecurityJournalLine);
+        this.OnAfterRunWithCheck(SecurityJournalLine);
     end;
 
     local procedure CheckLine(var SecurityJournalLine: Record "Security Journal Line")
     begin
-        OnBeforeCheckLine(SecurityJournalLine);
+        this.OnBeforeCheckLine(SecurityJournalLine);
 
         SecurityJournalLine.TestField("Security No.");
         SecurityJournalLine.TestField("Posting Date");
         SecurityJournalLine.TestField("Document No.");
-        SecurityJournalLine.TestField("Quantity");
-
+        SecurityJournalLine.TestField(Quantity);
         if SecurityJournalLine."Security Account Code" = '' then
             SecurityJournalLine.FieldError("Security Account Code");
 
-        OnAfterCheckLine(SecurityJournalLine);
+        this.OnAfterCheckLine(SecurityJournalLine);
     end;
 
     local procedure InitializeGlobals()
@@ -114,7 +110,7 @@ codeunit 79920 "Trade Posting"
 
     local procedure PostSecurityJnlLine(var SecurityJournalLine: Record "Security Journal Line")
     begin
-        OnBeforePostSecurityJnlLine(SecurityJournalLine);
+        this.OnBeforePostSecurityJnlLine(SecurityJournalLine);
 
         GetSecurity(SecurityJournalLine."Security No.");
 
@@ -122,7 +118,7 @@ codeunit 79920 "Trade Posting"
         InsertSecurityAccountLedgerEntry(SecurityJournalLine);
         PostToGL(SecurityJournalLine);
 
-        OnAfterPostSecurityJnlLine(SecurityJournalLine);
+        this.OnAfterPostSecurityJnlLine(SecurityJournalLine);
     end;
 
     local procedure GetSecurity(SecurityNo: Code[20])
@@ -141,7 +137,7 @@ codeunit 79920 "Trade Posting"
 
     local procedure InsertSecurityLedgerEntry(var SecurityJournalLine: Record "Security Journal Line")
     begin
-        OnBeforeInsertSecurityLedgerEntry(SecurityJournalLine, SecurityLedgerEntry);
+        this.OnBeforeInsertSecurityLedgerEntry(SecurityJournalLine, SecurityLedgerEntry);
 
         SecurityLedgerEntry.Init();
         SecurityLedgerEntry."Entry No." := NextSecurityLedgerEntryNo;
@@ -169,9 +165,9 @@ codeunit 79920 "Trade Posting"
         SecurityLedgerEntry."Open" := true;
 
         // Amounts and quantities
-        SecurityLedgerEntry."Quantity" := SecurityJournalLine."Quantity";
+        SecurityLedgerEntry."Quantity" := SecurityJournalLine.Quantity;
         SecurityLedgerEntry."Amount B.I." := SecurityJournalLine."Amount B.I.";
-        SecurityLedgerEntry."Amount" := SecurityJournalLine."Amount";
+        SecurityLedgerEntry."Amount" := SecurityJournalLine.Amount;
         SecurityLedgerEntry."Amount (LCY)" := SecurityJournalLine."Amount (LCY)";
         SecurityLedgerEntry."Account Amount" := SecurityJournalLine."Account Amount";
         SecurityLedgerEntry."Account Currency Code" := SecurityJournalLine."Account Currency Code";
@@ -183,9 +179,9 @@ codeunit 79920 "Trade Posting"
         SecurityLedgerEntry."Market-Value Principle" := SecurityJournalLine."Market-Value Principle";
 
         // Trading details
-        SecurityLedgerEntry."Price" := SecurityJournalLine."Price";
+        SecurityLedgerEntry."Price" := SecurityJournalLine.Price;
         SecurityLedgerEntry."Index Price" := SecurityJournalLine."Index Price";
-        SecurityLedgerEntry."Costs" := SecurityJournalLine."Costs";
+        SecurityLedgerEntry."Costs" := SecurityJournalLine.Costs;
         SecurityLedgerEntry."Trading Interest" := SecurityJournalLine."Trading Interest";
         SecurityLedgerEntry."Trading Interest (LCY)" := SecurityJournalLine."Trading Interest (LCY)";
         SecurityLedgerEntry."Yield Before Tax" := SecurityJournalLine."Yield Before Tax";
@@ -194,7 +190,7 @@ codeunit 79920 "Trade Posting"
         SecurityLedgerEntry."Dividend Tax (LCY)" := SecurityJournalLine."Dividend Tax (LCY)";
 
         // Special flags
-        SecurityLedgerEntry."Drawing" := SecurityJournalLine."Drawing";
+        SecurityLedgerEntry."Drawing" := SecurityJournalLine.Drawing;
         SecurityLedgerEntry."Bonus Share" := SecurityJournalLine."Bonus Share";
 
         // System fields
@@ -204,16 +200,16 @@ codeunit 79920 "Trade Posting"
         SecurityLedgerEntry."Reason Code" := SecurityJournalLine."Reason Code";
         SecurityLedgerEntry."Journal Name" := SecurityJournalLine."Journal Batch Name";
 
-        OnBeforeSecurityLedgerEntryInsert(SecurityLedgerEntry, SecurityJournalLine);
+        this.OnBeforeSecurityLedgerEntryInsert(SecurityLedgerEntry, SecurityJournalLine);
         SecurityLedgerEntry.Insert(true);
-        OnAfterSecurityLedgerEntryInsert(SecurityLedgerEntry, SecurityJournalLine);
+        this.OnAfterSecurityLedgerEntryInsert(SecurityLedgerEntry, SecurityJournalLine);
 
         NextSecurityLedgerEntryNo += 1;
     end;
 
     local procedure InsertSecurityAccountLedgerEntry(var SecurityJournalLine: Record "Security Journal Line")
     begin
-        OnBeforeInsertSecurityAccountLedgerEntry(SecurityJournalLine, SecurityAccountLedgerEntry);
+        this.OnBeforeInsertSecurityAccountLedgerEntry(SecurityJournalLine, SecurityAccountLedgerEntry);
 
         SecurityAccountLedgerEntry.Init();
         SecurityAccountLedgerEntry."Entry No." := NextSecurityAccountLedgerEntryNo;
@@ -222,31 +218,31 @@ codeunit 79920 "Trade Posting"
         SecurityAccountLedgerEntry."Security Account Code" := SecurityJournalLine."Security Account Code";
         SecurityAccountLedgerEntry."Posting Date" := DT2Date(SecurityJournalLine."Posting Date");
         SecurityAccountLedgerEntry."Trading Date" := DT2Date(SecurityJournalLine."Trading Date");
-        SecurityAccountLedgerEntry."Quantity" := SecurityJournalLine."Quantity";
+        SecurityAccountLedgerEntry."Quantity" := SecurityJournalLine.Quantity;
         SecurityAccountLedgerEntry."Document No." := SecurityJournalLine."Document No.";
         SecurityAccountLedgerEntry."Document Type" := SecurityJournalLine."Document Type";
         SecurityAccountLedgerEntry."Description" := SecurityJournalLine."Description";
         SecurityAccountLedgerEntry."User ID" := CopyStr(UserId, 1, 50);
-        SecurityAccountLedgerEntry."Balance Account Type" := SecurityJournalLine."Balance Account Type";
-        SecurityAccountLedgerEntry."Balance Account" := SecurityJournalLine."Balance Account";
+        SecurityAccountLedgerEntry."Bal. Account Type" := SecurityJournalLine."Bal. Account Type";
+        SecurityAccountLedgerEntry."Bal. Account No." := SecurityJournalLine."Bal. Account No.";
         SecurityAccountLedgerEntry."Reclassification" := false;
         SecurityAccountLedgerEntry."Rounding Difference" := false;
 
-        OnBeforeSecurityAccountLedgerEntryInsert(SecurityAccountLedgerEntry, SecurityJournalLine);
+        this.OnBeforeSecurityAccountLedgerEntryInsert(SecurityAccountLedgerEntry, SecurityJournalLine);
         SecurityAccountLedgerEntry.Insert(true);
-        OnAfterSecurityAccountLedgerEntryInsert(SecurityAccountLedgerEntry, SecurityJournalLine);
+        this.OnAfterSecurityAccountLedgerEntryInsert(SecurityAccountLedgerEntry, SecurityJournalLine);
 
         NextSecurityAccountLedgerEntryNo += 1;
     end;
 
     local procedure PostToGL(var SecurityJournalLine: Record "Security Journal Line")
     begin
-        OnBeforePostToGL(SecurityJournalLine);
+        this.OnBeforePostToGL(SecurityJournalLine);
 
         PostSecurityAccount(SecurityJournalLine);
         PostBalanceAccount(SecurityJournalLine);
 
-        OnAfterPostToGL(SecurityJournalLine);
+        this.OnAfterPostToGL(SecurityJournalLine);
     end;
 
     local procedure PostSecurityAccount(var SecurityJournalLine: Record "Security Journal Line")
@@ -263,7 +259,7 @@ codeunit 79920 "Trade Posting"
     var
         BalanceAccountNo: Code[20];
     begin
-        BalanceAccountNo := GetBalanceGLAccount(SecurityJournalLine."Balance Account Type", SecurityJournalLine."Balance Account");
+        BalanceAccountNo := GetBalanceGLAccount(SecurityJournalLine."Bal. Account Type", SecurityJournalLine."Bal. Account No.");
 
         PrepareGenJnlLine(SecurityJournalLine, BalanceAccountNo, SecurityJournalLine."Amount (LCY)");
         GenJnlPostLine.RunWithCheck(GenJnlLine);
@@ -271,7 +267,7 @@ codeunit 79920 "Trade Posting"
 
     local procedure PrepareGenJnlLine(var SecurityJournalLine: Record "Security Journal Line"; AccountNo: Code[20]; Amount: Decimal)
     begin
-        OnBeforePrepareGenJnlLine(GenJnlLine, SecurityJournalLine);
+        this.OnBeforePrepareGenJnlLine(GenJnlLine, SecurityJournalLine);
 
         GenJnlLine.Init();
         GenJnlLine."Account Type" := GenJnlLine."Account Type"::"G/L Account";
@@ -288,7 +284,7 @@ codeunit 79920 "Trade Posting"
         GenJnlLine."Dimension Set ID" := SecurityJournalLine."Dimension Set ID";
         GenJnlLine."External Document No." := SecurityJournalLine."External Document No.";
 
-        OnAfterPrepareGenJnlLine(GenJnlLine, SecurityJournalLine);
+        this.OnAfterPrepareGenJnlLine(GenJnlLine, SecurityJournalLine);
     end;
 
     local procedure FinishRegister()

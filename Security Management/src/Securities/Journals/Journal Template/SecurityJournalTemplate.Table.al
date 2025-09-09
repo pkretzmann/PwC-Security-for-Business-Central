@@ -3,7 +3,6 @@
 /// </summary>
 namespace PwC.Securities.Journals.JournalTemplate;
 
-using Microsoft.Foundation.AuditCodes;
 using System.Reflection;
 using Microsoft.Inventory.Tracking;
 using PwC.Securities.Journals;
@@ -39,7 +38,7 @@ table 79917 "Security Journal Template"
         {
             Caption = 'Source Code';
             ToolTip = 'Specifies the source code for the journal template. The source code is used to identify the journal template in the system.';
-            TableRelation = "Source Code";
+            TableRelation = Microsoft.Foundation.AuditCodes."Source Code";
 
             trigger OnValidate()
             begin

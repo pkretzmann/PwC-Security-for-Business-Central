@@ -6,6 +6,15 @@ namespace PwC.Securities.Ledgers;
 using PwC.Securities.Security;
 using PwC.Securities.SecurityAccounts;
 using PwC.Securities.Journals;
+using Microsoft.Finance.GeneralLedger.Journal;
+using Microsoft.Finance.GeneralLedger.Account;
+using Microsoft.Sales.Customer;
+using Microsoft.Purchases.Vendor;
+using Microsoft.Bank.BankAccount;
+using Microsoft.FixedAssets.FixedAsset;
+using Microsoft.Intercompany.Partner;
+using Microsoft.Finance.AllocationAccount;
+using Microsoft.HumanResources.Employee;
 
 table 79910 "Security Account Ledger Entry"
 {
@@ -76,15 +85,32 @@ table 79910 "Security Account Ledger Entry"
             Caption = 'User ID';
             ToolTip = 'Specifies the user ID who created the entry.';
         }
-        field(12; "Balance Account Type"; Integer)
+        field(12; "Bal. Account Type"; Enum "Gen. Journal Account Type")
         {
-            Caption = 'Balance Account Type';
+            Caption = 'Bal. Account Type';
+            ValuesAllowed = "G/L Account", "Bank Account";
             ToolTip = 'Specifies the balance account type.';
         }
-        field(13; "Balance Account"; Code[20])
+        field(13; "Bal. Account No."; Code[20])
         {
-            Caption = 'Balance Account';
-            ToolTip = 'Specifies the balance account.';
+            Caption = 'Bal. Account No.';
+            ToolTip = 'Specifies the balance account number.';
+            TableRelation = if ("Bal. Account Type" = const("G/L Account")) "G/L Account" where("Account Type" = const(Posting),
+                                                                                               Blocked = const(false))
+            else
+            if ("Bal. Account Type" = const(Customer)) Customer
+            else
+            if ("Bal. Account Type" = const(Vendor)) Vendor
+            else
+            if ("Bal. Account Type" = const("Bank Account")) "Bank Account"
+            else
+            if ("Bal. Account Type" = const("Fixed Asset")) "Fixed Asset"
+            else
+            if ("Bal. Account Type" = const("IC Partner")) "IC Partner"
+            else
+            if ("Bal. Account Type" = const("Allocation Account")) "Allocation Account"
+            else
+            if ("Bal. Account Type" = const(Employee)) Employee;
         }
         field(14; "Reclassification"; Boolean)
         {

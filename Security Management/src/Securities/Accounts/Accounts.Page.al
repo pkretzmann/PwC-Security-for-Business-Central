@@ -19,7 +19,7 @@ page 79904 Accounts
         {
             repeater(General)
             {
-                field(Code; Rec."Code") { }
+                field(Code; Rec.Code) { }
                 field(Name; Rec.Name) { }
                 field("Security Account No."; Rec."Security Account No.") { }
                 field("Bal. Account Type"; Rec."Bal. Account Type") { }
@@ -43,7 +43,7 @@ page 79904 Accounts
                 ToolTip = 'View the security accounts for this account.';
                 Image = Inventory;
                 RunObject = page "Security Accounts";
-                RunPageLink = "Account Code" = field("Code");
+                RunPageLink = "Account Code" = field(Code);
             }
         }
     }

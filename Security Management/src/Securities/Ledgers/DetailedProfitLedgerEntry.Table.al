@@ -131,6 +131,7 @@ table 79915 "Detailed Profit Ledger Entry"
         {
             Caption = 'Source Code';
             ToolTip = 'Specifies the source code for the entry.';
+            TableRelation = Microsoft.Foundation.AuditCodes."Source Code";
         }
         field(23; "Journal Name"; Code[10])
         {

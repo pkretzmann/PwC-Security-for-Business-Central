@@ -5,10 +5,10 @@ namespace PwC.Base.RoleCenters;
 
 using Microsoft.Service.RoleCenters;
 using PwC.Base.Setup;
-using PwC.Securities.SecurityAccounts;
 using PwC.Securities.Security;
 using PwC.Securities.ISIN;
 using PwC.Securities.Journals;
+using PwC.Securities.Accounts;
 
 pageextension 79904 "Treasury Serv. Dispatcher RC" extends "Service Dispatcher Role Center"
 {
@@ -33,12 +33,12 @@ pageextension 79904 "Treasury Serv. Dispatcher RC" extends "Service Dispatcher R
                     Caption = 'Security Management', Locked = true;
                     ToolTip = 'Manage securities from Treasury.';
 
-                    action(SecurityAccounts)
+                    action(Accounts)
                     {
                         ApplicationArea = All;
-                        Caption = 'Security Accounts';
+                        Caption = 'Accounts';
                         Image = Inventory;
-                        RunObject = page "Security Accounts";
+                        RunObject = page Accounts;
                         ToolTip = 'Manage the security accounts.';
                     }
                     action(Securities)

@@ -260,6 +260,7 @@ table 79902 "Security Ledger Entry"
         {
             Caption = 'Source Code';
             ToolTip = 'Specifies the source code for the entry.';
+            TableRelation = Microsoft.Foundation.AuditCodes."Source Code";
         }
         field(46; "Journal Name"; Code[10])
         {

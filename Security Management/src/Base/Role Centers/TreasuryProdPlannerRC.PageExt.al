@@ -7,8 +7,8 @@ using PwC.Base.Setup;
 using Microsoft.Manufacturing.RoleCenters;
 using PwC.Securities.Security;
 using PwC.Securities.ISIN;
-using PwC.Securities.SecurityAccounts;
 using PwC.Securities.Journals;
+using PwC.Securities.Accounts;
 
 pageextension 79901 "Treasury Prod. Planner RC" extends "Production Planner Role Center"
 {
@@ -33,12 +33,12 @@ pageextension 79901 "Treasury Prod. Planner RC" extends "Production Planner Role
                     Caption = 'Security Management', Locked = true;
                     ToolTip = 'Manage securities from Treasury.';
 
-                    action(SecurityAccounts)
+                    action(Accounts)
                     {
                         ApplicationArea = All;
-                        Caption = 'Security Accounts';
+                        Caption = 'Accounts';
                         Image = Inventory;
-                        RunObject = page "Security Accounts";
+                        RunObject = page Accounts;
                         ToolTip = 'Manage the security accounts.';
                     }
                     action(Securities)

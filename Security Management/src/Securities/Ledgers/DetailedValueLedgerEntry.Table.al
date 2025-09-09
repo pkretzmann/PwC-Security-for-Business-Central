@@ -152,6 +152,7 @@ table 79914 "Detailed Value Ledger Entry"
         {
             Caption = 'Source Code';
             ToolTip = 'Specifies the source code for the entry.';
+            TableRelation = Microsoft.Foundation.AuditCodes."Source Code";
         }
         field(27; "Journal Name"; Code[10])
         {

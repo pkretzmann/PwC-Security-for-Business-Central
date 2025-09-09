@@ -5,10 +5,10 @@ namespace PwC.Base.RoleCenters;
 
 using Microsoft.Finance.RoleCenters;
 using PwC.Base.Setup;
-using PwC.Securities.SecurityAccounts;
 using PwC.Securities.Security;
 using PwC.Securities.ISIN;
 using PwC.Securities.Journals;
+using PwC.Securities.Accounts;
 
 pageextension 79902 "Treasury Accountant RC" extends "Accountant Role Center"
 {
@@ -33,12 +33,12 @@ pageextension 79902 "Treasury Accountant RC" extends "Accountant Role Center"
                     Caption = 'Security Management', Locked = true;
                     ToolTip = 'Manage securities from Treasury.';
 
-                    action(SecurityAccounts)
+                    action(Accounts)
                     {
                         ApplicationArea = All;
-                        Caption = 'Security Accounts';
+                        Caption = 'Accounts';
                         Image = Inventory;
-                        RunObject = page "Security Accounts";
+                        RunObject = page Accounts;
                         ToolTip = 'Manage the security accounts.';
                     }
                     action(Securities)

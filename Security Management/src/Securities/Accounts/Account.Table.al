@@ -88,4 +88,9 @@ table 79904 Account
     {
         key(PK; Code) { Clustered = true; }
     }
+
+    fieldgroups
+    {
+        fieldgroup(DropDown; Code, Name) { }
+    }
 }

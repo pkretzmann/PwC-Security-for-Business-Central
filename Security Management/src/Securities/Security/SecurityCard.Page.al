@@ -20,10 +20,12 @@ page 79901 "Security Card"
         {
             group(General)
             {
+                field("Security Type"; Rec."Security Type") { }
                 field("No."; Rec."No.") { }
                 field(Name; Rec.Name) { }
                 field(ISIN; Rec."ISIN Code") { }
                 field("Trading Currency Code"; Rec."Currency Code") { }
+                field("Report Grouping Code"; Rec."Report Grouping Code") { }
             }
         }
     }

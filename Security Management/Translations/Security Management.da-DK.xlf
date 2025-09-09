@@ -57,6 +57,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action Security Management - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 2389485278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>Manage the security accounts.</source>
+          <target>Administrer depotbeholdninger.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action Accounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4285155704 - Action 2389485278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>Accounts</source>
+          <target>Depoter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action Accounts - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 4285155704 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
           <source>Manage the ISINs.</source>
           <target>Administrer ISIN'er.</target>
@@ -81,18 +93,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action Securities - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 4285155704 - Action 3949882504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
-          <source>Manage the security accounts.</source>
-          <target>Administrer depotbeholdninger.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action SecurityAccounts - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 4285155704 - Action 3949882504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
-          <source>Security Accounts</source>
-          <target>Depotbeholdninger</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action SecurityAccounts - Property Caption</note>
-        </trans-unit>
         <trans-unit id="PageExtension 4285155704 - Action 2763664856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
           <source>Manage the journals.</source>
           <target>Administrer kladderne.</target>
@@ -101,7 +101,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 4285155704 - Action 2763664856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
           <source>Security Journals</source>
-          <target>Værdipapirkladder</target>
+          <target>Værdipapirhandelskladder</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Accountant RC - Action SecurityJournals - Property Caption</note>
         </trans-unit>
@@ -135,6 +135,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action Security Management - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 2389485278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Manage the security accounts.</source>
+          <target>Administrer depotbeholdninger.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action Accounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4165747125 - Action 2389485278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Accounts</source>
+          <target>Depoter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action Accounts - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 4165747125 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
           <source>Manage the ISINs.</source>
           <target>Administrer ISIN'er.</target>
@@ -159,18 +171,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action Securities - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 4165747125 - Action 3949882504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
-          <source>Manage the security accounts.</source>
-          <target>Administrer depotbeholdninger.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action SecurityAccounts - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 4165747125 - Action 3949882504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
-          <source>Security Accounts</source>
-          <target>Depotbeholdninger</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action SecurityAccounts - Property Caption</note>
-        </trans-unit>
         <trans-unit id="PageExtension 4165747125 - Action 2763664856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
           <source>Manage the journals.</source>
           <target>Administrer kladderne.</target>
@@ -179,7 +179,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 4165747125 - Action 2763664856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
           <source>Security Journals</source>
-          <target>Værdipapirkladder</target>
+          <target>Værdipapirhandelskladder</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Business Manager RC - Action SecurityJournals - Property Caption</note>
         </trans-unit>
@@ -213,6 +213,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action Security Management - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 2389485278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>Manage the security accounts.</source>
+          <target>Administrer depotbeholdninger.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action Accounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4238293773 - Action 2389485278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
+          <source>Accounts</source>
+          <target>Depoter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action Accounts - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 4238293773 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
           <source>Manage the ISINs.</source>
           <target>Administrer ISIN'er.</target>
@@ -237,18 +249,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action Securities - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 4238293773 - Action 3949882504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
-          <source>Manage the security accounts.</source>
-          <target>Administrer depotbeholdninger.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action SecurityAccounts - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 4238293773 - Action 3949882504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
-          <source>Security Accounts</source>
-          <target>Depotbeholdninger</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action SecurityAccounts - Property Caption</note>
-        </trans-unit>
         <trans-unit id="PageExtension 4238293773 - Action 2763664856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
           <source>Manage the journals.</source>
           <target>Administrer kladderne.</target>
@@ -257,7 +257,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 4238293773 - Action 2763664856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3365016562">
           <source>Security Journals</source>
-          <target>Værdipapirkladder</target>
+          <target>Værdipapirhandelskladder</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Prod. Planner RC - Action SecurityJournals - Property Caption</note>
         </trans-unit>
@@ -291,6 +291,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action Security Management - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 2389485278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>Manage the security accounts.</source>
+          <target>Administrer depotbeholdninger.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action Accounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166619292 - Action 2389485278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
+          <source>Accounts</source>
+          <target>Depoter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action Accounts - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 3166619292 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
           <source>Manage the ISINs.</source>
           <target>Administrer ISIN'er.</target>
@@ -315,18 +327,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action Securities - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 3166619292 - Action 3949882504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
-          <source>Manage the security accounts.</source>
-          <target>Administrer depotbeholdninger.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action SecurityAccounts - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 3166619292 - Action 3949882504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
-          <source>Security Accounts</source>
-          <target>Depoterbeholdninger</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action SecurityAccounts - Property Caption</note>
-        </trans-unit>
         <trans-unit id="PageExtension 3166619292 - Action 2763664856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
           <source>Manage the journals.</source>
           <target>Administrer kladderne.</target>
@@ -335,7 +335,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 3166619292 - Action 2763664856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4109301636">
           <source>Security Journals</source>
-          <target>Værdipapirkladder</target>
+          <target>Værdipapirhandelskladder</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Project Manager RC - Action SecurityJournals - Property Caption</note>
         </trans-unit>
@@ -369,6 +369,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action Security Management - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 2389485278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>Manage the security accounts.</source>
+          <target>Administrer depotbeholdninger.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action Accounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 736017079 - Action 2389485278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
+          <source>Accounts</source>
+          <target>Depoter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action Accounts - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 736017079 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
           <source>Manage the ISINs.</source>
           <target>Administrer ISIN'er.</target>
@@ -393,18 +405,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action Securities - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 736017079 - Action 3949882504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
-          <source>Manage the security accounts.</source>
-          <target>Administrer depotbeholdninger.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action SecurityAccounts - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 736017079 - Action 3949882504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
-          <source>Security Accounts</source>
-          <target>Depotbeholdninger</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action SecurityAccounts - Property Caption</note>
-        </trans-unit>
         <trans-unit id="PageExtension 736017079 - Action 2763664856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
           <source>Manage the journals.</source>
           <target>Administrer kladderne.</target>
@@ -413,7 +413,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 736017079 - Action 2763664856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3703463247">
           <source>Security Journals</source>
-          <target>Værdipapirkladder</target>
+          <target>Værdipapirhandelskladder</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Serv. Dispatcher RC - Action SecurityJournals - Property Caption</note>
         </trans-unit>
@@ -447,6 +447,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action Security Management - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 2389485278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>Manage the security accounts.</source>
+          <target>Administrer depotbeholdninger.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action Accounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2572556509 - Action 2389485278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
+          <source>Accounts</source>
+          <target>Depoter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action Accounts - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2572556509 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
           <source>Manage the ISINs.</source>
           <target>Administrer ISIN'er.</target>
@@ -471,18 +483,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action Securities - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2572556509 - Action 3949882504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
-          <source>Manage the security accounts.</source>
-          <target>Administrer depotbeholdninger.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action SecurityAccounts - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 2572556509 - Action 3949882504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
-          <source>Security Accounts</source>
-          <target>Depotbeholdninger</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action SecurityAccounts - Property Caption</note>
-        </trans-unit>
         <trans-unit id="PageExtension 2572556509 - Action 2763664856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
           <source>Manage the journals.</source>
           <target>Administrer kladderne.</target>
@@ -491,7 +491,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 2572556509 - Action 2763664856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3738778758">
           <source>Security Journals</source>
-          <target>Værdipapirkladder</target>
+          <target>Værdipapirhandelskladder</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. Basic RC - Action SecurityJournals - Property Caption</note>
         </trans-unit>
@@ -525,6 +525,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action Security Management - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 2389485278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>Manage the security accounts.</source>
+          <target>Administrer depotbeholdninger.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action Accounts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2304404 - Action 2389485278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
+          <source>Accounts</source>
+          <target>Depoter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action Accounts - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2304404 - Action 376573610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
           <source>Manage the ISINs.</source>
           <target>Administrer ISIN'er.</target>
@@ -549,18 +561,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action Securities - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2304404 - Action 3949882504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
-          <source>Manage the security accounts.</source>
-          <target>Administrer depotbeholdninger.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action SecurityAccounts - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 2304404 - Action 3949882504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
-          <source>Security Accounts</source>
-          <target>Depotbeholdninger</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action SecurityAccounts - Property Caption</note>
-        </trans-unit>
         <trans-unit id="PageExtension 2304404 - Action 2763664856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
           <source>Manage the journals.</source>
           <target>Administrer kladderne.</target>
@@ -569,7 +569,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 2304404 - Action 2763664856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3782393827">
           <source>Security Journals</source>
-          <target>Værdipapirkladder</target>
+          <target>Værdipapirhandelskladder</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Treasury Whse. WMS RC - Action SecurityJournals - Property Caption</note>
         </trans-unit>
@@ -984,7 +984,6 @@
         </trans-unit>
         <trans-unit id="Table 1267408499 - Field 1891586249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bal. Account No.</source>
-          <target>Modkonto</target>
           <target>Modkontonr.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Account - Field Bal. Account No. - Property Caption</note>
@@ -1131,7 +1130,7 @@
         </trans-unit>
         <trans-unit id="Table 916124581 - Field 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the name of this project journal. You can enter a maximum of 10 characters, both numbers and letters.</source>
-          <target>Angiver navnet på denne værdipapirkladde. Du kan indsætte op til 10 tegn, både tal og bogstaver.</target>
+          <target>Angiver navnet på værdipapirhandelskladden. Du kan indsætte op til 10 tegn, både tal og bogstaver.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Batch - Field Name - Property ToolTip</note>
         </trans-unit>
@@ -1411,30 +1410,29 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Apply Entry No. - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 907978851 - Field 2877895369 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the balance account.</source>
+        <trans-unit id="Table 907978851 - Field 1891586249 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the balance account number.</source>
           <target>Angiver modkontoen.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Balance Account - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Bal. Account No. - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Table 907978851 - Field 2877895369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Balance Account</source>
-          <target>Statuskonto</target>
+        <trans-unit id="Table 907978851 - Field 1891586249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bal. Account No.</source>
+          <target>Modkontonr.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Balance Account - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Bal. Account No. - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 907978851 - Field 3911366801 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 907978851 - Field 824028820 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the balance account type.</source>
-          <target>Angiver saldo kontotypen.</target>
           <target>Angiver modkontotype.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Balance Account Type - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Bal. Account Type - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Table 907978851 - Field 3911366801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Balance Account Type</source>
+        <trans-unit id="Table 907978851 - Field 824028820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bal. Account Type</source>
           <target>Modkontotype</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Balance Account Type - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Bal. Account Type - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 1206490820 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies if this is a bonus share entry.</source>
@@ -1649,7 +1647,7 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 2360952980 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Drawing</source>
-          <target>Trækning</target>
+          <target>Udtrækning</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Drawing - Property Caption</note>
         </trans-unit>
@@ -1799,7 +1797,7 @@
         </trans-unit>
         <trans-unit id="Table 907978851 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Price</source>
-          <target>Kurs</target>
+          <target>Fondskurs</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Journal Line - Field Price - Property Caption</note>
         </trans-unit>
@@ -2087,7 +2085,7 @@
         </trans-unit>
         <trans-unit id="Page 2166342521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Security Journals</source>
-          <target>Værdipapirkladder</target>
+          <target>Værdipapirhandelskladde</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Security Journal - Property Caption</note>
         </trans-unit>
@@ -2176,6 +2174,42 @@
           <target>Værdipapirsposter</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Security Register - Action Security Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2363328873 - EnumValue 4260528206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>2</source>
+          <target>2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Document Type - EnumValue 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2363328873 - EnumValue 3622831589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>3</source>
+          <target>3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Document Type - EnumValue 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2363328873 - EnumValue 434348504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>4</source>
+          <target>4</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Document Type - EnumValue 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2363328873 - EnumValue 4091619183 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>5</source>
+          <target>5</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Document Type - EnumValue 5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2363328873 - EnumValue 395510365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase</source>
+          <target>Køb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Document Type - EnumValue Purchase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2363328873 - EnumValue 2315137949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sale</source>
+          <target>Salg</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Document Type - EnumValue Sale - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3858673673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Detailed Profit Ledger Entry</source>
@@ -2867,29 +2901,29 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 874318466 - Field 2877895369 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the balance account.</source>
-          <target>Angiver modkontoen.</target>
+        <trans-unit id="Table 874318466 - Field 1891586249 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the balance account number.</source>
+          <target>Angiver saldo kontonummeret.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Balance Account - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Bal. Account No. - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Table 874318466 - Field 2877895369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Balance Account</source>
-          <target>Statuskonto</target>
+        <trans-unit id="Table 874318466 - Field 1891586249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bal. Account No.</source>
+          <target>Modkontonr.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Balance Account - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Bal. Account No. - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 874318466 - Field 3911366801 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 874318466 - Field 824028820 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the balance account type.</source>
           <target>Angiver modkontotype.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Balance Account Type - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Bal. Account Type - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Table 874318466 - Field 3911366801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Balance Account Type</source>
+        <trans-unit id="Table 874318466 - Field 824028820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bal. Account Type</source>
           <target>Modkontotype</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Balance Account Type - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Security Account Ledger Entry - Field Bal. Account Type - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 874318466 - Field 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the description of the entry.</source>
@@ -3272,13 +3306,13 @@
         </trans-unit>
         <trans-unit id="Table 1067929953 - Field 2360952980 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies if this is a drawing entry.</source>
-          <target>Angiver om dette er en trækningspost.</target>
+          <target>Angiver om dette er en udtrækningspost.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Drawing - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 1067929953 - Field 2360952980 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Drawing</source>
-          <target>Trækning</target>
+          <target>Udtrækning</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Drawing - Property Caption</note>
         </trans-unit>
@@ -3422,7 +3456,7 @@
         </trans-unit>
         <trans-unit id="Table 1067929953 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Price</source>
-          <target>Kurs</target>
+          <target>Fondskurs</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Security Ledger Entry - Field Price - Property Caption</note>
         </trans-unit>
@@ -3716,7 +3750,7 @@
         </trans-unit>
         <trans-unit id="Table 1959702151 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Price</source>
-          <target>Kurs</target>
+          <target>Fondskurs</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Investment Fund Price - Field Price - Property Caption</note>
         </trans-unit>
